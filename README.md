@@ -16,10 +16,12 @@ Contains topicwise list of solved problems.
 ## Amazon
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
 ## Microsoft
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
 ## Intuit
 | Problem Name | Difficulty |
@@ -33,6 +35,42 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
+## Zoho
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
+## Accolite
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
+## OYO Rooms
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
+## Samsung
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
+## Snapdeal
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
+## Citrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
+## Walmart
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
+## MAQ Software
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
+## Cisco
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 <!---GeeksForGeeks Companies End-->
 <hr>
 
@@ -63,6 +101,7 @@ Contains topicwise list of solved problems.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
 ## DFS
 | Problem Name | Difficulty |
@@ -75,9 +114,14 @@ Contains topicwise list of solved problems.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
 ## Check If A Word Exists In A Grid Or Not
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
+## Strings
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 <!---GeeksForGeeks Tags End-->
