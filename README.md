@@ -152,4 +152,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0rat-in-a-maze](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0rat-in-a-maze/) | Medium |
+## GeeksForGeeks
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [unknown-problem](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/unknown-problem/) | Medium |
 <!---GeeksForGeeks Tags End-->
