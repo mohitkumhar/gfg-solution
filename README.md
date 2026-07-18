@@ -17,6 +17,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0all-string-permutations-in-sorted-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0all-string-permutations-in-sorted-order/) | Hard |
+| [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [0rat-in-a-maze](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0rat-in-a-maze/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
@@ -25,6 +26,7 @@ Contains topicwise list of solved problems.
 ## Microsoft
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [0rat-in-a-maze](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0rat-in-a-maze/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
@@ -53,6 +55,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0all-string-permutations-in-sorted-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0all-string-permutations-in-sorted-order/) | Hard |
+| [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 ## OYO Rooms
 | Problem Name | Difficulty |
@@ -67,6 +70,7 @@ Contains topicwise list of solved problems.
 ## Snapdeal
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 ## Citrix
 | Problem Name | Difficulty |
@@ -88,6 +92,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0all-string-permutations-in-sorted-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0all-string-permutations-in-sorted-order/) | Hard |
+| [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 ## Flipkart
 | Problem Name | Difficulty |
@@ -96,10 +101,12 @@ Contains topicwise list of solved problems.
 ## Hike
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [word-break](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-break/) | Medium |
 ## Google
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [word-break](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-break/) | Medium |
 ## IBM
@@ -121,6 +128,7 @@ Contains topicwise list of solved problems.
 ## Adobe
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 ## Infosys
 | Problem Name | Difficulty |
@@ -146,6 +154,14 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
+## VMWare
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
+## ABCO
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 <!---GeeksForGeeks Companies End-->
 <hr>
 
@@ -154,12 +170,14 @@ Contains topicwise list of solved problems.
 ## Arrays
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [0min-and-max-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Basic/0min-and-max-in-array/) | Basic |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [second-largest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/second-largest/) | Easy |
 ## Searching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [second-largest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/second-largest/) | Easy |
 ## Data Structures
 | Problem Name | Difficulty |
@@ -244,4 +262,20 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0min-and-max-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Basic/0min-and-max-in-array/) | Basic |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
+## Abco Interview Experience Set 5
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
+## Adobe Interview Experience Off Campus
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
+## Kth Largest Element In An Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 <!---GeeksForGeeks Tags End-->
