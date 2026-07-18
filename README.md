@@ -42,6 +42,7 @@ Contains topicwise list of solved problems.
 ## NPCI
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0min-and-max-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Basic/0min-and-max-in-array/) | Basic |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
 ## Zoho
 | Problem Name | Difficulty |
@@ -153,6 +154,7 @@ Contains topicwise list of solved problems.
 ## Arrays
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0min-and-max-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Basic/0min-and-max-in-array/) | Basic |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [second-largest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/second-largest/) | Easy |
 ## Searching
@@ -238,4 +240,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
+## Maximum And Minimum In An Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0min-and-max-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Basic/0min-and-max-in-array/) | Basic |
 <!---GeeksForGeeks Tags End-->
