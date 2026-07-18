@@ -19,6 +19,7 @@ Contains topicwise list of solved problems.
 | [0all-string-permutations-in-sorted-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0all-string-permutations-in-sorted-order/) | Hard |
 | [0rat-in-a-maze](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0rat-in-a-maze/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
+| [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [word-break](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-break/) | Medium |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
 ## Microsoft
@@ -26,6 +27,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0rat-in-a-maze](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0rat-in-a-maze/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
+| [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [word-break](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-break/) | Medium |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
 ## Intuit
@@ -35,6 +37,7 @@ Contains topicwise list of solved problems.
 ## Apple
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
 ## NPCI
 | Problem Name | Difficulty |
@@ -96,11 +99,52 @@ Contains topicwise list of solved problems.
 ## Google
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [word-break](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-break/) | Medium |
 ## IBM
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [word-break](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-break/) | Medium |
+## Bloomberg
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
+## Facebook
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
+## TCS
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
+## Adobe
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
+## Infosys
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
+## Capgemini
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
+## Morgan Stanley
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
+## Yahoo
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
+## PayPal
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
+## Uber
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 <!---GeeksForGeeks Companies End-->
 <hr>
 
@@ -109,6 +153,7 @@ Contains topicwise list of solved problems.
 ## Arrays
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [second-largest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/second-largest/) | Easy |
 ## Searching
 | Problem Name | Difficulty |
@@ -189,4 +234,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [word-break](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-break/) | Medium |
+## Program To Reverse An Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 <!---GeeksForGeeks Tags End-->
