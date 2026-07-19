@@ -6,6 +6,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -303,11 +304,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 
+## Swiggy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0row-with-max-1s-in-rowwise-sorted](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0row-with-max-1s-in-rowwise-sorted/) | Medium |
+
 <!---GeeksForGeeks Companies End-->
 
 
 
+
 <hr>
+
 
 
 
@@ -496,6 +504,12 @@ Contains topicwise list of solved problems.
 | [minimize-the-heights-i](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-i/) | Medium |
 | [minimize-the-heights-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-ii/) | Medium |
 
+## Find The Row With Maximum Number 1s
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0row-with-max-1s-in-rowwise-sorted](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0row-with-max-1s-in-rowwise-sorted/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
