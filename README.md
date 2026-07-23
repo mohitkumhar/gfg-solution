@@ -470,6 +470,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -544,6 +545,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0all-string-permutations-in-sorted-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0all-string-permutations-in-sorted-order/) | Hard |
+| [convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence/) | Easy |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
@@ -757,7 +759,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [search-pattern](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Hard/search-pattern/) | Hard |
 
+## Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
