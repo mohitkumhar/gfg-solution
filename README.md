@@ -23,6 +23,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -49,6 +50,7 @@ Contains topicwise list of solved problems.
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
+| [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
 | [longest-repeating-subsequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-repeating-subsequence/) | Medium |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
@@ -66,6 +68,7 @@ Contains topicwise list of solved problems.
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
+| [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
 | [minimize-the-heights-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-ii/) | Medium |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
@@ -89,6 +92,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0min-and-max-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Basic/0min-and-max-in-array/) | Basic |
+| [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
 | [strings-rotations-of-each-other](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/strings-rotations-of-each-other/) | Medium |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
 
@@ -110,6 +114,7 @@ Contains topicwise list of solved problems.
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
+| [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
 
 ## OYO Rooms
 | Problem Name | Difficulty |
@@ -287,6 +292,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0max-rectangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0max-rectangle/) | Hard |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
+| [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
 
@@ -422,7 +428,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -523,6 +531,7 @@ Contains topicwise list of solved problems.
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
+| [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
 | [longest-repeating-subsequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-repeating-subsequence/) | Medium |
 | [strings-rotations-of-each-other](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/strings-rotations-of-each-other/) | Medium |
 
@@ -716,7 +725,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
 
+## Longest Prefix Also Suffix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
