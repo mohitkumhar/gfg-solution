@@ -35,12 +35,14 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
 ## SAP Labs
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
 | [second-largest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/second-largest/) | Easy |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 
@@ -65,6 +67,7 @@ Contains topicwise list of solved problems.
 | [longest-repeating-subsequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-repeating-subsequence/) | Medium |
 | [minimum-bracket-reversals-to-balance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-bracket-reversals-to-balance/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
+| [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [union-of-2-sorted-arrays](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-2-sorted-arrays/) | Medium |
@@ -111,6 +114,7 @@ Contains topicwise list of solved problems.
 | [0min-and-max-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Basic/0min-and-max-in-array/) | Basic |
 | [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
+| [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
 | [strings-rotations-of-each-other](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/strings-rotations-of-each-other/) | Medium |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
 
@@ -277,6 +281,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
+| [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
@@ -326,6 +331,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
+| [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 
 ## Yatra.com
@@ -472,7 +478,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -593,6 +601,7 @@ Contains topicwise list of solved problems.
 | [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
 | [longest-repeating-subsequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-repeating-subsequence/) | Medium |
 | [minimum-bracket-reversals-to-balance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-bracket-reversals-to-balance/) | Medium |
+| [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
 | [search-pattern-rabin-karp-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/search-pattern-rabin-karp-algorithm/) | Hard |
 | [search-pattern](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Hard/search-pattern/) | Hard |
 | [strings-rotations-of-each-other](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/strings-rotations-of-each-other/) | Medium |
@@ -630,6 +639,7 @@ Contains topicwise list of solved problems.
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
 | [longest-repeating-subsequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-repeating-subsequence/) | Medium |
+| [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
 | [word-break](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-break/) | Medium |
 
 ## Flipkart Interview Set 6
@@ -826,6 +836,7 @@ Contains topicwise list of solved problems.
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
