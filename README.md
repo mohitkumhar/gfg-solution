@@ -42,6 +42,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -243,11 +244,13 @@ Contains topicwise list of solved problems.
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
 | [longest-repeating-subsequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-repeating-subsequence/) | Medium |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
+| [word-break-2](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/word-break-2/) | Hard |
 | [word-break](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-break/) | Medium |
 
 ## IBM
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [word-break-2](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/word-break-2/) | Hard |
 | [word-break](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-break/) | Medium |
 
 ## Bloomberg
@@ -499,7 +502,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -595,6 +600,7 @@ Contains topicwise list of solved problems.
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [target-sum-combinations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/target-sum-combinations/) | Medium |
+| [word-break-2](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/word-break-2/) | Hard |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
 
 ## DFS
@@ -614,6 +620,7 @@ Contains topicwise list of solved problems.
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [target-sum-combinations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/target-sum-combinations/) | Medium |
+| [word-break-2](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/word-break-2/) | Hard |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
 
 ## Check If A Word Exists In A Grid Or Not
@@ -672,6 +679,7 @@ Contains topicwise list of solved problems.
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
 | [longest-repeating-subsequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-repeating-subsequence/) | Medium |
 | [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
+| [word-break-2](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/word-break-2/) | Hard |
 | [word-break](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-break/) | Medium |
 
 ## Flipkart Interview Set 6
@@ -882,7 +890,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [target-sum-combinations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/target-sum-combinations/) | Medium |
 
+## Word Break Problem Dp 32 Set 2
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [word-break-2](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/word-break-2/) | Hard |
+
+## Word Break Problem Using Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [word-break-2](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/word-break-2/) | Hard |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
