@@ -46,6 +46,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -76,6 +77,7 @@ Contains topicwise list of solved problems.
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
 | [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
 | [longest-repeating-subsequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-repeating-subsequence/) | Medium |
+| [longest-subarray-with-sum-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-subarray-with-sum-k/) | Medium |
 | [minimum-bracket-reversals-to-balance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-bracket-reversals-to-balance/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
 | [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
@@ -521,7 +523,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -580,6 +584,7 @@ Contains topicwise list of solved problems.
 | [0min-and-max-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Basic/0min-and-max-in-array/) | Basic |
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
+| [longest-subarray-with-sum-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-subarray-with-sum-k/) | Medium |
 | [minimize-the-heights-i](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-i/) | Medium |
 | [minimize-the-heights-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-ii/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
@@ -882,6 +887,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence/) | Easy |
+| [longest-subarray-with-sum-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-subarray-with-sum-k/) | Medium |
 
 ## Intuit Interview Experience Set 12
 | Problem Name | Difficulty |
@@ -928,7 +934,23 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [solve-the-sudoku](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/solve-the-sudoku/) | Hard |
 
+## Map
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [longest-subarray-with-sum-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-subarray-with-sum-k/) | Medium |
+
+## prefix-sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [longest-subarray-with-sum-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-subarray-with-sum-k/) | Medium |
+
+## Longest Sub Array Sum K
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [longest-subarray-with-sum-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-subarray-with-sum-k/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
