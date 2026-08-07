@@ -56,6 +56,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -93,6 +94,7 @@ Contains topicwise list of solved problems.
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
 | [next-permutation](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/next-permutation/) | Medium |
 | [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
+| [pascal-triangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/pascal-triangle/) | Medium |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [solve-the-sudoku](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/solve-the-sudoku/) | Hard |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
@@ -116,6 +118,7 @@ Contains topicwise list of solved problems.
 | [minimize-the-heights-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-ii/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
 | [next-permutation](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/next-permutation/) | Medium |
+| [pascal-triangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/pascal-triangle/) | Medium |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [rotate-by-90-degree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rotate-by-90-degree/) | Medium |
 | [search-pattern-rabin-karp-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/search-pattern-rabin-karp-algorithm/) | Hard |
@@ -318,6 +321,7 @@ Contains topicwise list of solved problems.
 | [minimize-the-heights-i](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-i/) | Medium |
 | [minimize-the-heights-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-ii/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
+| [pascal-triangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/pascal-triangle/) | Medium |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [rotate-by-90-degree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rotate-by-90-degree/) | Medium |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
@@ -581,7 +585,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -658,6 +664,7 @@ Contains topicwise list of solved problems.
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
 | [move-all-negative-elements-to-end](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/move-all-negative-elements-to-end/) | Easy |
 | [next-permutation](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/next-permutation/) | Medium |
+| [pascal-triangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/pascal-triangle/) | Medium |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [second-largest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/second-largest/) | Easy |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
@@ -695,6 +702,7 @@ Contains topicwise list of solved problems.
 | [0all-string-permutations-in-sorted-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0all-string-permutations-in-sorted-order/) | Hard |
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
+| [pascal-triangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/pascal-triangle/) | Medium |
 | [target-sum-combinations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/target-sum-combinations/) | Medium |
 | [word-break-2](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/word-break-2/) | Hard |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
@@ -1066,7 +1074,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [subarrays-with-sum-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/subarrays-with-sum-k/) | Medium |
 
+## Find The Nth Row In Pascals Triangle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [pascal-triangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/pascal-triangle/) | Medium |
+
+## Pascal Triangle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [pascal-triangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/pascal-triangle/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
