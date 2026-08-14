@@ -71,6 +71,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -101,6 +102,7 @@ Contains topicwise list of solved problems.
 | [distinct-occurrences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/distinct-occurrences/) | Hard |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
+| [first-and-last-in-sorted](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/first-and-last-in-sorted/) | Medium |
 | [gold-mine-problem](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/gold-mine-problem/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [largest-subarray-with-0-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-subarray-with-0-sum/) | Medium |
@@ -136,6 +138,7 @@ Contains topicwise list of solved problems.
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
+| [first-and-last-in-sorted](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/first-and-last-in-sorted/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [largest-subarray-with-0-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-subarray-with-0-sum/) | Medium |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
@@ -321,6 +324,7 @@ Contains topicwise list of solved problems.
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
 | [distinct-occurrences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/distinct-occurrences/) | Hard |
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
+| [first-and-last-in-sorted](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/first-and-last-in-sorted/) | Medium |
 | [justified-text](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/justified-text/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
@@ -673,7 +677,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -764,6 +770,7 @@ Contains topicwise list of solved problems.
 | [count-inversions](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-inversions/) | Medium |
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
 | [count-subarrays-with-given-xor](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-subarrays-with-given-xor/) | Medium |
+| [first-and-last-in-sorted](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/first-and-last-in-sorted/) | Medium |
 | [justified-text](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/justified-text/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [largest-subarray-with-0-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-subarray-with-0-sum/) | Medium |
@@ -1021,6 +1028,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0kth-smallest-element-in-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest-element-in-a-matrix/) | Medium |
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
+| [first-and-last-in-sorted](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/first-and-last-in-sorted/) | Medium |
 | [median-of-2-sorted-arrays-of-different-sizes](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/median-of-2-sorted-arrays-of-different-sizes/) | Hard |
 | [split-array-largest-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/split-array-largest-sum/) | Hard |
 
@@ -1271,6 +1279,7 @@ Contains topicwise list of solved problems.
 | [maximum-product-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/maximum-product-subarray/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
