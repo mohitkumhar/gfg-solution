@@ -72,6 +72,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -349,6 +350,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
+| [search-in-rotated-array-2](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/search-in-rotated-array-2/) | Medium |
 
 ## Facebook
 | Problem Name | Difficulty |
@@ -376,6 +378,7 @@ Contains topicwise list of solved problems.
 | [pascal-triangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/pascal-triangle/) | Medium |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [rotate-by-90-degree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rotate-by-90-degree/) | Medium |
+| [search-in-rotated-array-2](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/search-in-rotated-array-2/) | Medium |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
 | [strings-rotations-of-each-other](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/strings-rotations-of-each-other/) | Medium |
@@ -408,6 +411,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0set-matrix-zeros](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0set-matrix-zeros/) | Medium |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
+| [search-in-rotated-array-2](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/search-in-rotated-array-2/) | Medium |
 
 ## PayPal
 | Problem Name | Difficulty |
@@ -420,6 +424,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
+| [search-in-rotated-array-2](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/search-in-rotated-array-2/) | Medium |
 
 ## VMWare
 | Problem Name | Difficulty |
@@ -678,7 +683,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -785,6 +792,7 @@ Contains topicwise list of solved problems.
 | [overlapping-intervals](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/overlapping-intervals/) | Medium |
 | [pascal-triangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/pascal-triangle/) | Medium |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
+| [search-in-rotated-array-2](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/search-in-rotated-array-2/) | Medium |
 | [second-largest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/second-largest/) | Easy |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
@@ -1030,6 +1038,7 @@ Contains topicwise list of solved problems.
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
 | [first-and-last-in-sorted](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/first-and-last-in-sorted/) | Medium |
 | [median-of-2-sorted-arrays-of-different-sizes](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/median-of-2-sorted-arrays-of-different-sizes/) | Hard |
+| [search-in-rotated-array-2](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/search-in-rotated-array-2/) | Medium |
 | [split-array-largest-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/split-array-largest-sum/) | Hard |
 
 ## Accolite Interview Set 2 Campus
@@ -1279,6 +1288,7 @@ Contains topicwise list of solved problems.
 | [maximum-product-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/maximum-product-subarray/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
