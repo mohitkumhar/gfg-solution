@@ -835,6 +835,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -866,6 +867,7 @@ Contains topicwise list of solved problems.
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [search-in-rotated-array-2](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/search-in-rotated-array-2/) | Medium |
 | [second-largest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/second-largest/) | Easy |
+| [smallest-divisor](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/smallest-divisor/) | Medium |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
 | [split-array-largest-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/split-array-largest-sum/) | Hard |
@@ -1116,6 +1118,7 @@ Contains topicwise list of solved problems.
 | [median-of-2-sorted-arrays-of-different-sizes](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/median-of-2-sorted-arrays-of-different-sizes/) | Hard |
 | [minimum-days-to-make-m-bouquets](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-days-to-make-m-bouquets/) | Medium |
 | [search-in-rotated-array-2](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/search-in-rotated-array-2/) | Medium |
+| [smallest-divisor](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/smallest-divisor/) | Medium |
 | [split-array-largest-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/split-array-largest-sum/) | Hard |
 
 ## Accolite Interview Set 2 Campus
@@ -1387,6 +1390,7 @@ Contains topicwise list of solved problems.
 | [minimum-days-to-make-m-bouquets](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-days-to-make-m-bouquets/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
