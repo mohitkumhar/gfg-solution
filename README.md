@@ -1431,11 +1431,6 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
 
-## Find The Count Of Reverse Pairs
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
-
 ## Morgan Stanley Interview Set 11 Campus
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1456,31 +1451,6 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [find-nth-root-of-m](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/find-nth-root-of-m/) | Medium |
 
-## Koko Eating Bananas
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [koko-eating-bananas](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/koko-eating-bananas/) | Medium |
-
-## Minimum Days To Make M Bouquets
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [minimum-days-to-make-m-bouquets](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-days-to-make-m-bouquets/) | Medium |
-
-## Capacity To Ship Packages Within D Days
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [capacity-to-ship-packages-within-d-days](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/capacity-to-ship-packages-within-d-days/) | Medium |
-
-## Allocate Minimum Number Pages
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [allocate-minimum-pages](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/allocate-minimum-pages/) | Medium |
-
-## Painters Partition Problem
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0the-painters-partition-problem-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0the-painters-partition-problem-ii/) | Hard |
-
 ## Mathematics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1491,11 +1461,6 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0add-1-to-a-linked-list-number](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-1-to-a-linked-list-number/) | Medium |
 | [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
-
-## Add 1 Number Represented Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0add-1-to-a-linked-list-number](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-1-to-a-linked-list-number/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
 
