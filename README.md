@@ -944,6 +944,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1509,6 +1510,7 @@ Contains topicwise list of solved problems.
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [reorder-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reorder-list/) | Hard |
 | [reverse-a-sublist-of-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reverse-a-sublist-of-a-linked-list/) | Hard |
+| [segregate-evens-and-odds-in-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/segregate-evens-and-odds-in-a-linked-list/) | Medium |
 
 ## Makemytrip Interview Experience Set 4
 | Problem Name | Difficulty |
@@ -1547,6 +1549,7 @@ Contains topicwise list of solved problems.
 | [reverse-a-sublist-of-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reverse-a-sublist-of-a-linked-list/) | Hard |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
