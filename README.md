@@ -98,6 +98,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -196,6 +197,7 @@ Contains topicwise list of solved problems.
 | [overlapping-intervals](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/overlapping-intervals/) | Medium |
 | [pascal-triangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/pascal-triangle/) | Medium |
 | [reorder-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reorder-list/) | Hard |
+| [reverse-a-sublist-of-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reverse-a-sublist-of-a-linked-list/) | Hard |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [rotate-by-90-degree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rotate-by-90-degree/) | Medium |
 | [search-pattern-rabin-karp-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/search-pattern-rabin-karp-algorithm/) | Hard |
@@ -823,7 +825,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1504,6 +1508,7 @@ Contains topicwise list of solved problems.
 | [intersection-in-y-shaped-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-in-y-shaped-lists/) | Medium |
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [reorder-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reorder-list/) | Hard |
+| [reverse-a-sublist-of-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reverse-a-sublist-of-a-linked-list/) | Hard |
 
 ## Makemytrip Interview Experience Set 4
 | Problem Name | Difficulty |
@@ -1531,7 +1536,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [reorder-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reorder-list/) | Hard |
 
+## Reverse Sublist Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-a-sublist-of-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reverse-a-sublist-of-a-linked-list/) | Hard |
+
+## Java
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-a-sublist-of-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reverse-a-sublist-of-a-linked-list/) | Hard |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
