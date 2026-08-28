@@ -96,12 +96,14 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
 ## SAP Labs
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
 | [second-largest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/second-largest/) | Easy |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
@@ -136,6 +138,7 @@ Contains topicwise list of solved problems.
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [koko-eating-bananas](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/koko-eating-bananas/) | Medium |
 | [largest-subarray-with-0-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-subarray-with-0-sum/) | Medium |
+| [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
 | [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
 | [longest-repeating-subsequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-repeating-subsequence/) | Medium |
@@ -179,6 +182,7 @@ Contains topicwise list of solved problems.
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [koko-eating-bananas](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/koko-eating-bananas/) | Medium |
 | [largest-subarray-with-0-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-subarray-with-0-sum/) | Medium |
+| [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
 | [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
 | [maximum-product-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/maximum-product-subarray/) | Medium |
@@ -259,6 +263,7 @@ Contains topicwise list of solved problems.
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [intersection-in-y-shaped-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-in-y-shaped-lists/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
+| [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
 | [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
@@ -301,6 +306,7 @@ Contains topicwise list of solved problems.
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [intersection-in-y-shaped-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-in-y-shaped-lists/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
+| [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [sorted-and-rotated-minimum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/sorted-and-rotated-minimum/) | Easy |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
@@ -318,6 +324,7 @@ Contains topicwise list of solved problems.
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [koko-eating-bananas](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/koko-eating-bananas/) | Medium |
+| [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [word-break](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-break/) | Medium |
@@ -364,6 +371,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
+| [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [next-permutation](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/next-permutation/) | Medium |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [word-break](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-break/) | Medium |
@@ -432,6 +440,7 @@ Contains topicwise list of solved problems.
 | [intersection-in-y-shaped-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-in-y-shaped-lists/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [koko-eating-bananas](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/koko-eating-bananas/) | Medium |
+| [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [minimize-the-heights-i](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-i/) | Medium |
 | [minimize-the-heights-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-ii/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
@@ -497,6 +506,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [intersection-in-y-shaped-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-in-y-shaped-lists/) | Medium |
+| [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 
 ## ABCO
 | Problem Name | Difficulty |
@@ -506,6 +516,7 @@ Contains topicwise list of solved problems.
 ## Paytm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [rotate-by-90-degree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rotate-by-90-degree/) | Medium |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
@@ -518,6 +529,7 @@ Contains topicwise list of solved problems.
 | [count-inversions](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-inversions/) | Medium |
 | [intersection-in-y-shaped-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-in-y-shaped-lists/) | Medium |
 | [largest-subarray-with-0-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-subarray-with-0-sum/) | Medium |
+| [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
 | [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
 | [next-permutation](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/next-permutation/) | Medium |
@@ -662,6 +674,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
 | [intersection-in-y-shaped-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-in-y-shaped-lists/) | Medium |
+| [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 
 ## Expedia
 | Problem Name | Difficulty |
@@ -803,7 +816,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1138,6 +1153,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0004-sum-all-quadruples](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0004-sum-all-quadruples/) | Medium |
 | [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
+| [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [minimize-the-heights-i](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-i/) | Medium |
 | [triplet-sum-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/triplet-sum-in-array/) | Medium |
 | [union-of-2-sorted-arrays](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-2-sorted-arrays/) | Medium |
@@ -1479,18 +1495,31 @@ Contains topicwise list of solved problems.
 | [0add-1-to-a-linked-list-number](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-1-to-a-linked-list-number/) | Medium |
 | [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
 | [intersection-in-y-shaped-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-in-y-shaped-lists/) | Medium |
+| [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 
 ## Makemytrip Interview Experience Set 4
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [intersection-in-y-shaped-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-in-y-shaped-lists/) | Medium |
+| [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 
 ## Adobe Interview Experience 5 Rounds
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [intersection-in-y-shaped-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-in-y-shaped-lists/) | Medium |
 
+## Vmware Interview Experience Set 3
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
+
+## Paytm Interview Experience Set 9
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
