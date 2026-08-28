@@ -94,6 +94,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -113,6 +114,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-sum-all-quadruples](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0004-sum-all-quadruples/) | Medium |
+| [0add-1-to-a-linked-list-number](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-1-to-a-linked-list-number/) | Medium |
 | [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
 | [0all-string-permutations-in-sorted-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0all-string-permutations-in-sorted-order/) | Hard |
 | [0kth-smallest-element-in-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest-element-in-a-matrix/) | Medium |
@@ -784,7 +786,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1485,9 +1489,16 @@ Contains topicwise list of solved problems.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0add-1-to-a-linked-list-number](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-1-to-a-linked-list-number/) | Medium |
 | [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
 
+## Add 1 Number Represented Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0add-1-to-a-linked-list-number](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-1-to-a-linked-list-number/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
