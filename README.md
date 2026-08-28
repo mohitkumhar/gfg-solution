@@ -93,6 +93,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -112,6 +113,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-sum-all-quadruples](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0004-sum-all-quadruples/) | Medium |
+| [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
 | [0all-string-permutations-in-sorted-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0all-string-permutations-in-sorted-order/) | Hard |
 | [0kth-smallest-element-in-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest-element-in-a-matrix/) | Medium |
 | [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
@@ -158,6 +160,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-sum-all-quadruples](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0004-sum-all-quadruples/) | Medium |
+| [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
 | [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [0max-rectangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0max-rectangle/) | Hard |
 | [0rat-in-a-maze](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0rat-in-a-maze/) | Medium |
@@ -244,6 +247,7 @@ Contains topicwise list of solved problems.
 ## Accolite
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
 | [0all-string-permutations-in-sorted-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0all-string-permutations-in-sorted-order/) | Hard |
 | [0kth-smallest-element-in-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest-element-in-a-matrix/) | Medium |
 | [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
@@ -285,6 +289,7 @@ Contains topicwise list of solved problems.
 ## Snapdeal
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
 | [0all-subsequences-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/0all-subsequences-of-a-string/) | Medium |
 | [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
@@ -332,6 +337,7 @@ Contains topicwise list of solved problems.
 ## Flipkart
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
 | [0max-rectangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0max-rectangle/) | Hard |
 | [count-inversions](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-inversions/) | Medium |
 | [gold-mine-problem](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/gold-mine-problem/) | Medium |
@@ -444,6 +450,7 @@ Contains topicwise list of solved problems.
 ## Morgan Stanley
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [maximum-product-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/maximum-product-subarray/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
@@ -495,6 +502,7 @@ Contains topicwise list of solved problems.
 ## MakeMyTrip
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
 | [0max-rectangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0max-rectangle/) | Hard |
 | [count-inversions](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-inversions/) | Medium |
 | [largest-subarray-with-0-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-subarray-with-0-sum/) | Medium |
@@ -523,6 +531,7 @@ Contains topicwise list of solved problems.
 ## Qualcomm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
 | [next-permutation](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/next-permutation/) | Medium |
@@ -774,7 +783,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1105,6 +1116,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-sum-all-quadruples](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0004-sum-all-quadruples/) | Medium |
+| [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
 | [minimize-the-heights-i](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-i/) | Medium |
 | [triplet-sum-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/triplet-sum-in-array/) | Medium |
 | [union-of-2-sorted-arrays](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-2-sorted-arrays/) | Medium |
@@ -1470,7 +1482,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [minimize-max-distance-of-adjacent-gas-stations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimize-max-distance-of-adjacent-gas-stations/) | Hard |
 
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
