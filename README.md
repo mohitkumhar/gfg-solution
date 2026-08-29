@@ -951,6 +951,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1104,6 +1105,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0max-rectangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0max-rectangle/) | Hard |
 | [0the-painters-partition-problem-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0the-painters-partition-problem-ii/) | Hard |
+| [count-subsequences-divisible-by-n](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-subsequences-divisible-by-n/) | Medium |
 | [distinct-occurrences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/distinct-occurrences/) | Hard |
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
 | [gold-mine-problem](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/gold-mine-problem/) | Medium |
@@ -1555,7 +1557,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [reverse-a-sublist-of-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reverse-a-sublist-of-a-linked-list/) | Hard |
 
+## Number Subsequences String Divisible N
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [count-subsequences-divisible-by-n](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-subsequences-divisible-by-n/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
