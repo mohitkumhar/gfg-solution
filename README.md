@@ -100,6 +100,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -148,6 +149,7 @@ Contains topicwise list of solved problems.
 | [longest-subarray-with-sum-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-subarray-with-sum-k/) | Medium |
 | [maximum-product-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/maximum-product-subarray/) | Medium |
 | [median-of-2-sorted-arrays-of-different-sizes](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/median-of-2-sorted-arrays-of-different-sizes/) | Hard |
+| [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 | [minimum-bracket-reversals-to-balance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-bracket-reversals-to-balance/) | Medium |
 | [minimum-days-to-make-m-bouquets](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-days-to-make-m-bouquets/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
@@ -192,6 +194,7 @@ Contains topicwise list of solved problems.
 | [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
 | [maximum-product-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/maximum-product-subarray/) | Medium |
 | [median-of-2-sorted-arrays-of-different-sizes](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/median-of-2-sorted-arrays-of-different-sizes/) | Hard |
+| [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 | [minimize-the-heights-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-ii/) | Medium |
 | [minimum-days-to-make-m-bouquets](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-days-to-make-m-bouquets/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
@@ -241,6 +244,7 @@ Contains topicwise list of solved problems.
 | [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
 | [maximum-product-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/maximum-product-subarray/) | Medium |
 | [median-of-2-sorted-arrays-of-different-sizes](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/median-of-2-sorted-arrays-of-different-sizes/) | Hard |
+| [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 | [minimum-days-to-make-m-bouquets](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-days-to-make-m-bouquets/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
 | [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
@@ -275,6 +279,7 @@ Contains topicwise list of solved problems.
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
 | [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
+| [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
 | [triplet-sum-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/triplet-sum-in-array/) | Medium |
 
@@ -345,6 +350,7 @@ Contains topicwise list of solved problems.
 | [0all-string-permutations-in-sorted-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0all-string-permutations-in-sorted-order/) | Hard |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [intersection-in-y-shaped-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-in-y-shaped-lists/) | Medium |
+| [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 | [search-pattern](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Hard/search-pattern/) | Hard |
 | [solve-the-sudoku](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/solve-the-sudoku/) | Hard |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
@@ -451,6 +457,7 @@ Contains topicwise list of solved problems.
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [koko-eating-bananas](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/koko-eating-bananas/) | Medium |
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
+| [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 | [minimize-the-heights-i](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-i/) | Medium |
 | [minimize-the-heights-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-ii/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
@@ -528,6 +535,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
+| [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 | [rotate-by-90-degree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rotate-by-90-degree/) | Medium |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
@@ -733,6 +741,11 @@ Contains topicwise list of solved problems.
 | [0the-painters-partition-problem-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0the-painters-partition-problem-ii/) | Hard |
 | [allocate-minimum-pages](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/allocate-minimum-pages/) | Medium |
 
+## Veritas
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
+
 <!---GeeksForGeeks Companies End-->
 
 
@@ -831,7 +844,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1144,6 +1159,7 @@ Contains topicwise list of solved problems.
 | [0004-sum-all-quadruples](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0004-sum-all-quadruples/) | Medium |
 | [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [count-inversions](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-inversions/) | Medium |
+| [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 | [overlapping-intervals](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/overlapping-intervals/) | Medium |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [triplet-sum-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/triplet-sum-in-array/) | Medium |
@@ -1483,6 +1499,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
+| [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 
 ## Morgan Stanley Interview Set 11 Campus
 | Problem Name | Difficulty |
@@ -1516,6 +1533,7 @@ Contains topicwise list of solved problems.
 | [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
 | [intersection-in-y-shaped-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-in-y-shaped-lists/) | Medium |
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
+| [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 | [reorder-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reorder-list/) | Hard |
 | [reverse-a-sublist-of-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reverse-a-sublist-of-a-linked-list/) | Hard |
 | [segregate-evens-and-odds-in-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/segregate-evens-and-odds-in-a-linked-list/) | Medium |
@@ -1562,7 +1580,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [count-subsequences-divisible-by-n](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-subsequences-divisible-by-n/) | Medium |
 
+## Maq Software Interview Experience Set 5
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
+
+## Merge Sort For Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
