@@ -102,6 +102,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -196,6 +197,7 @@ Contains topicwise list of solved problems.
 | [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
 | [maximum-product-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/maximum-product-subarray/) | Medium |
 | [median-of-2-sorted-arrays-of-different-sizes](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/median-of-2-sorted-arrays-of-different-sizes/) | Hard |
+| [merge-2-sorted-linked-lists-in-reverse-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-2-sorted-linked-lists-in-reverse-order/) | Medium |
 | [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 | [minimize-the-heights-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-ii/) | Medium |
 | [minimum-days-to-make-m-bouquets](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-days-to-make-m-bouquets/) | Medium |
@@ -861,7 +863,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1519,6 +1523,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
+| [merge-2-sorted-linked-lists-in-reverse-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-2-sorted-linked-lists-in-reverse-order/) | Medium |
 | [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 
 ## Morgan Stanley Interview Set 11 Campus
@@ -1553,6 +1558,7 @@ Contains topicwise list of solved problems.
 | [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
 | [intersection-in-y-shaped-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-in-y-shaped-lists/) | Medium |
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
+| [merge-2-sorted-linked-lists-in-reverse-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-2-sorted-linked-lists-in-reverse-order/) | Medium |
 | [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 | [reorder-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reorder-list/) | Hard |
 | [reverse-a-sublist-of-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reverse-a-sublist-of-a-linked-list/) | Hard |
@@ -1633,6 +1639,7 @@ Contains topicwise list of solved problems.
 | [sorted-insert-in-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sorted-insert-in-dll/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
