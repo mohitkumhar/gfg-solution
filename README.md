@@ -106,6 +106,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -212,6 +213,7 @@ Contains topicwise list of solved problems.
 | [overlapping-intervals](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/overlapping-intervals/) | Medium |
 | [pascal-triangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/pascal-triangle/) | Medium |
 | [rearrange-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rearrange-a-linked-list/) | Medium |
+| [remove-all-duplicates-in-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/remove-all-duplicates-in-a-linked-list/) | Medium |
 | [reorder-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reorder-list/) | Hard |
 | [reverse-a-sublist-of-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reverse-a-sublist-of-a-linked-list/) | Hard |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
@@ -875,7 +877,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1579,6 +1583,7 @@ Contains topicwise list of solved problems.
 | [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 | [prime-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/prime-list/) | Medium |
 | [rearrange-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rearrange-a-linked-list/) | Medium |
+| [remove-all-duplicates-in-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/remove-all-duplicates-in-a-linked-list/) | Medium |
 | [reorder-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reorder-list/) | Hard |
 | [reverse-a-sublist-of-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reverse-a-sublist-of-a-linked-list/) | Hard |
 | [reverse-alternate-in-link-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/reverse-alternate-in-link-list/) | Medium |
@@ -1665,6 +1670,7 @@ Contains topicwise list of solved problems.
 | [prime-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/prime-list/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
