@@ -110,6 +110,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -138,6 +139,7 @@ Contains topicwise list of solved problems.
 | [0max-rectangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0max-rectangle/) | Hard |
 | [0rat-in-a-maze](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0rat-in-a-maze/) | Medium |
 | [0set-matrix-zeros](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0set-matrix-zeros/) | Medium |
+| [absolute-list-sorting](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/absolute-list-sorting/) | Medium |
 | [allocate-minimum-pages](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/allocate-minimum-pages/) | Medium |
 | [capacity-to-ship-packages-within-d-days](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/capacity-to-ship-packages-within-d-days/) | Medium |
 | [count-inversions](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-inversions/) | Medium |
@@ -307,6 +309,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0004-sum-all-quadruples](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0004-sum-all-quadruples/) | Medium |
 | [0all-string-permutations-in-sorted-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0all-string-permutations-in-sorted-order/) | Hard |
+| [absolute-list-sorting](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/absolute-list-sorting/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [maximum-product-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/maximum-product-subarray/) | Medium |
 | [reorder-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reorder-list/) | Hard |
@@ -887,7 +890,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1589,6 +1594,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0add-1-to-a-linked-list-number](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-1-to-a-linked-list-number/) | Medium |
 | [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
+| [absolute-list-sorting](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/absolute-list-sorting/) | Medium |
 | [intersection-in-y-shaped-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-in-y-shaped-lists/) | Medium |
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [merge-2-sorted-linked-lists-in-reverse-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-2-sorted-linked-lists-in-reverse-order/) | Medium |
@@ -1695,6 +1701,7 @@ Contains topicwise list of solved problems.
 | [sort-singly-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-singly-linked-list/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
