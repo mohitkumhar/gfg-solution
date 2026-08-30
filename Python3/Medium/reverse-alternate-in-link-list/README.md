@@ -1,0 +1,12 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/given-a-linked-list-reverse-alternate-nodes-and-append-at-the-end/1">Reverse Alternate in Link List</a></h2><h3>Medium</h3><hr><p>Given a<strong> </strong>singly linked list, perform the following operations:</p>
+<ul>
+<li>Extract all alternate nodes starting from the second node.</li>
+<li>Reverse the extracted list</li>
+<li>Append the reversed list at the end of the remaining list.</li>
+</ul>
+<p>Return head of the final modified list.</p>
+<p><span style="font-size: 12pt;"><strong>Note</strong>: Try to solve the problem without using any extra memory.</span></p>
+<p><span style="font-size: 12pt;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 12pt;"><strong style="font-size: 12pt;">Input:</strong><span style="font-size: 12pt;"><br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/927004/Web/Other/blobid1_1777031318.png" width="611" height="82"><br></span><strong style="font-size: 12pt;">Output:<br></strong><span style="font-size: 12pt;"><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/927004/Web/Other/blobid2_1777031330.png" width="611" height="82"><br></span><strong><span style="font-size: 16px;">Explanation: </span></strong><span style="font-size: 16px;">Alternate nodes starting from the second node are: 14 -&gt; 18. Reversing them: 18 -&gt; 14. Appending to the remaining list: 12 -&gt; 16 -&gt; 20 -&gt; 18 -&gt; 14</span></span></pre>
+<pre><span style="font-size: 12pt;"><strong style="font-size: 12pt;">Input:</strong><span style="font-size: 12pt;"><br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/927004/Web/Other/blobid1_1777119639.png" width="839" height="94"><br></span><strong style="font-size: 12pt;">Output:</strong><span style="font-size: 12pt;"><br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/927004/Web/Other/blobid4_1777031391.png" width="840" height="94"><br></span><strong style="font-size: 12pt;">Explanation: </strong></span><span style="font-size: 16px;">Alternate nodes starting from the second node are: 4 -&gt; 1 -&gt; 5 -&gt; 4. Reversing them: 4 -&gt; 5 -&gt; 1 -&gt; 4. Appending to the remaining list: 10 -&gt; 9 -&gt; 3 -&gt; 9 -&gt; 4 -&gt; 5 -&gt; 1 -&gt; 4</span></pre>
+<p><span style="font-size: 12pt;"><strong>Constraints:</strong><br>1 ≤ size of linked list ≤ 10<sup>6</sup><br>0 ≤ Node_value ≤ 10<sup>9</sup></span></p>
