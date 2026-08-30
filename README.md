@@ -1003,6 +1003,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1565,6 +1566,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [minimize-max-distance-of-adjacent-gas-stations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimize-max-distance-of-adjacent-gas-stations/) | Hard |
+| [prime-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/prime-list/) | Medium |
 
 ## Linked List
 | Problem Name | Difficulty |
@@ -1575,6 +1577,7 @@ Contains topicwise list of solved problems.
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [merge-2-sorted-linked-lists-in-reverse-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-2-sorted-linked-lists-in-reverse-order/) | Medium |
 | [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
+| [prime-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/prime-list/) | Medium |
 | [rearrange-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rearrange-a-linked-list/) | Medium |
 | [reorder-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reorder-list/) | Hard |
 | [reverse-a-sublist-of-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reverse-a-sublist-of-a-linked-list/) | Hard |
@@ -1656,7 +1659,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [sorted-insert-in-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sorted-insert-in-dll/) | Medium |
 
+## Prime Number
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [prime-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/prime-list/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
