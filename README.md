@@ -101,6 +101,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -167,6 +168,7 @@ Contains topicwise list of solved problems.
 | [target-sum-combinations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/target-sum-combinations/) | Medium |
 | [triplet-sum-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/triplet-sum-in-array/) | Medium |
 | [union-of-2-sorted-arrays](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-2-sorted-arrays/) | Medium |
+| [union-of-two-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-two-linked-lists/) | Medium |
 | [word-break](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-break/) | Medium |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
 
@@ -214,6 +216,7 @@ Contains topicwise list of solved problems.
 | [subarrays-with-sum-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/subarrays-with-sum-k/) | Medium |
 | [target-sum-combinations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/target-sum-combinations/) | Medium |
 | [triplet-sum-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/triplet-sum-in-array/) | Medium |
+| [union-of-two-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-two-linked-lists/) | Medium |
 | [word-break](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-break/) | Medium |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
 
@@ -380,6 +383,7 @@ Contains topicwise list of solved problems.
 | [solve-the-sudoku](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/solve-the-sudoku/) | Hard |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
+| [union-of-two-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-two-linked-lists/) | Medium |
 | [word-break](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-break/) | Medium |
 
 ## Hike
@@ -585,6 +589,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
+| [union-of-two-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-two-linked-lists/) | Medium |
 
 ## D-E-Shaw
 | Problem Name | Difficulty |
@@ -746,6 +751,16 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 
+## Komli Media
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [union-of-two-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-two-linked-lists/) | Medium |
+
+## Taxi4Sure
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [union-of-two-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-two-linked-lists/) | Medium |
+
 <!---GeeksForGeeks Companies End-->
 
 
@@ -845,7 +860,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1163,6 +1180,7 @@ Contains topicwise list of solved problems.
 | [overlapping-intervals](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/overlapping-intervals/) | Medium |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [triplet-sum-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/triplet-sum-in-array/) | Medium |
+| [union-of-two-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-two-linked-lists/) | Medium |
 
 ## Abco Interview Experience Set 5
 | Problem Name | Difficulty |
@@ -1344,6 +1362,7 @@ Contains topicwise list of solved problems.
 | [overlapping-intervals](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/overlapping-intervals/) | Medium |
 | [subarrays-with-sum-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/subarrays-with-sum-k/) | Medium |
 | [triplet-sum-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/triplet-sum-in-array/) | Medium |
+| [union-of-two-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-two-linked-lists/) | Medium |
 
 ## Intuit Interview Experience Set 12
 | Problem Name | Difficulty |
@@ -1538,6 +1557,7 @@ Contains topicwise list of solved problems.
 | [reverse-a-sublist-of-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reverse-a-sublist-of-a-linked-list/) | Hard |
 | [segregate-evens-and-odds-in-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/segregate-evens-and-odds-in-a-linked-list/) | Medium |
 | [swap-kth-nodes-from-ends](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/swap-kth-nodes-from-ends/) | Medium |
+| [union-of-two-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-two-linked-lists/) | Medium |
 
 ## Makemytrip Interview Experience Set 4
 | Problem Name | Difficulty |
@@ -1590,7 +1610,23 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 
+## Taxi4sure Interview Experience
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [union-of-two-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-two-linked-lists/) | Medium |
+
+## Komli Media Interview Experience
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [union-of-two-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-two-linked-lists/) | Medium |
+
+## Flipkart Interview Experience Set 21
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [union-of-two-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-two-linked-lists/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
