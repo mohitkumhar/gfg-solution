@@ -1,0 +1,7 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/absolute-list-sorting/1">Absolute List Sorting</a></h2><h3>Medium</h3><hr><p><span style="font-size: 14pt;">Given a linked list, sorted in ascending order based on the absolute values of nodes.</span></p>
+<p><span style="font-size: 14pt;"><strong>Examples</strong>: <strong> </strong></span></p>
+<pre><span style="font-size: 14pt;"><strong>Input</strong>: head: 1 -&gt; -2 -&gt; -3 -&gt; 4 -&gt; -5
+<strong>Output</strong>: -5 -&gt; -3 -&gt; -2 -&gt; 1 -&gt; 4</span><br><span style="font-size: 14pt;"><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700234/Web/Other/blobid0_1723006347.png" width="400" height="140"></span><br><span style="font-size: 14pt;"><strong>Explanation: </strong>Actual sorted order of [1, -2, -3, 4, -5] is [-5, -3, -2, 1, 4].</span></pre>
+<pre><span style="font-size: 14pt;"><strong>Input</strong>: head: 5 -&gt; -10
+<strong>Output</strong>: -10 -&gt; 5</span><br><span style="font-size: 14pt;"><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700234/Web/Other/blobid1_1723006449.png" width="400" height="140"></span><br><span style="font-size: 14pt;"><strong>Explanation: </strong>Actual sorted order of [5, -10] is [-10, 5].
+</span></pre>
