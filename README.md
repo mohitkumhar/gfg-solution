@@ -109,6 +109,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -225,6 +226,7 @@ Contains topicwise list of solved problems.
 | [search-pattern](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Hard/search-pattern/) | Hard |
 | [solve-the-sudoku](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/solve-the-sudoku/) | Hard |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
+| [sort-singly-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-singly-linked-list/) | Medium |
 | [sorted-and-rotated-minimum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/sorted-and-rotated-minimum/) | Easy |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
 | [subarrays-with-sum-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/subarrays-with-sum-k/) | Medium |
@@ -884,7 +886,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1599,6 +1603,7 @@ Contains topicwise list of solved problems.
 | [segregate-evens-and-odds-in-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/segregate-evens-and-odds-in-a-linked-list/) | Medium |
 | [separate-consonants-and-vowels-in-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/separate-consonants-and-vowels-in-linked-list/) | Medium |
 | [sort-alternate-sorted-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-alternate-sorted-linked-list/) | Medium |
+| [sort-singly-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-singly-linked-list/) | Medium |
 | [sorted-insert-in-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sorted-insert-in-dll/) | Medium |
 | [swap-kth-nodes-from-ends](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/swap-kth-nodes-from-ends/) | Medium |
 | [union-of-two-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-two-linked-lists/) | Medium |
@@ -1684,7 +1689,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [quick-sort-on-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/quick-sort-on-linked-list/) | Medium |
 
+## Sorting A Singly Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-singly-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-singly-linked-list/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
