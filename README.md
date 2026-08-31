@@ -118,6 +118,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -164,6 +165,7 @@ Contains topicwise list of solved problems.
 | [koko-eating-bananas](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/koko-eating-bananas/) | Medium |
 | [largest-subarray-with-0-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-subarray-with-0-sum/) | Medium |
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
+| [linked-list-in-zig-zag-fashion](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/linked-list-in-zig-zag-fashion/) | Medium |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
 | [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
 | [longest-repeating-subsequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-repeating-subsequence/) | Medium |
@@ -331,6 +333,7 @@ Contains topicwise list of solved problems.
 | [absolute-list-sorting](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/absolute-list-sorting/) | Medium |
 | [clone-list-with-next-and-random](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/clone-list-with-next-and-random/) | Hard |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
+| [linked-list-in-zig-zag-fashion](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/linked-list-in-zig-zag-fashion/) | Medium |
 | [maximum-product-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/maximum-product-subarray/) | Medium |
 | [reorder-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reorder-list/) | Hard |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
@@ -942,7 +945,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1667,6 +1672,7 @@ Contains topicwise list of solved problems.
 | [intersection-in-y-shaped-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-in-y-shaped-lists/) | Medium |
 | [intersection-point-in-y-shaped-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-point-in-y-shaped-linked-lists/) | Medium |
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
+| [linked-list-in-zig-zag-fashion](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/linked-list-in-zig-zag-fashion/) | Medium |
 | [merge-2-sorted-linked-lists-in-reverse-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-2-sorted-linked-lists-in-reverse-order/) | Medium |
 | [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 | [merge-sort-on-doubly-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/merge-sort-on-doubly-linked-list/) | Hard |
@@ -1811,7 +1817,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [modify-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/modify-linked-list/) | Medium |
 
+## Linked List In Zig Zag Fashion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [linked-list-in-zig-zag-fashion](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/linked-list-in-zig-zag-fashion/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
