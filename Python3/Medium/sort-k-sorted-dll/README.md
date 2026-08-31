@@ -1,0 +1,10 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/sort-a-k-sorted-doubly-linked-list/1">Sort k Sorted DLL</a></h2><h3>Medium</h3><hr><p><span style="font-size: 18px;">Given a doubly linked list, each node is at most k-indices away from its target position. In other words, if a node is supposed to be at position i in sorted list, then it can be at any position from i - k to i + k.</span><span style="font-size: 18px;"> </span></p>
+<p><span style="font-size: 18px;">Sort the given doubly linked list. The distances can be assumed in either of the directions (left and right).</span></p>
+<p><strong><span style="font-size: 18px;">Examples:</span></strong></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>head :<strong> </strong>3 &lt;-&gt; 2 &lt;-&gt; 1 &lt;-&gt; 5 &lt;-&gt; 6 &lt;-&gt; 4, k</span><span style="font-size: 18px;"> = 2<strong>
+Output: </strong>1 &lt;-&gt; 2 &lt;-&gt; 3 &lt;-&gt; 4 &lt;-&gt; 5 &lt;-&gt; 6<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/710293/Web/Other/blobid0_1721194663.png" width="400" height="120"><strong>
+Explanation: </strong></span><span style="font-size: 18px;">After sorting the given 2-sorted </span><span style="font-size: 18px;">list is 1 &lt;-&gt; 2 &lt;-&gt; 3 &lt;-&gt; 4 &lt;-&gt; 5 &lt;-&gt; 6.</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>head :<strong> </strong></span><span style="font-size: 18px;">5 &lt;-&gt; 6 &lt;-&gt; 7 &lt;-&gt; 3 &lt;-&gt; 4 &lt;-&gt; 4</span><span style="font-size: 18px;">, </span><span style="font-size: 18px;">k = 3<strong>
+Output: </strong>3 &lt;-&gt; 4 &lt;-&gt; 4 &lt;-&gt; 5 &lt;-&gt; 6 &lt;-&gt; 7<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/710293/Web/Other/blobid1_1721194681.png" width="400" height="120"><strong>
+Explanation: </strong>After sorting the given 3-sorted list is 3 &lt;-&gt; 4 &lt;-&gt; 4 &lt;-&gt; 5 &lt;-&gt; 6 &lt;-&gt; 7.</span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤ number of nodes ≤ 10<sup>5</sup><br>0 ≤ k &lt; number of nodes<br>0 ≤ node-&gt;data ≤ 10<sup>9</sup></span></p>
