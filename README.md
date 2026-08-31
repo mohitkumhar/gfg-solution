@@ -1067,6 +1067,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1261,6 +1262,7 @@ Contains topicwise list of solved problems.
 | [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [count-inversions](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-inversions/) | Medium |
 | [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
+| [merge-sort-on-doubly-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/merge-sort-on-doubly-linked-list/) | Hard |
 | [overlapping-intervals](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/overlapping-intervals/) | Medium |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [sort-alternate-sorted-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-alternate-sorted-linked-list/) | Medium |
@@ -1605,6 +1607,7 @@ Contains topicwise list of solved problems.
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
 | [merge-2-sorted-linked-lists-in-reverse-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-2-sorted-linked-lists-in-reverse-order/) | Medium |
 | [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
+| [merge-sort-on-doubly-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/merge-sort-on-doubly-linked-list/) | Hard |
 
 ## Morgan Stanley Interview Set 11 Campus
 | Problem Name | Difficulty |
@@ -1646,6 +1649,7 @@ Contains topicwise list of solved problems.
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [merge-2-sorted-linked-lists-in-reverse-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-2-sorted-linked-lists-in-reverse-order/) | Medium |
 | [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
+| [merge-sort-on-doubly-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/merge-sort-on-doubly-linked-list/) | Hard |
 | [partition-a-linked-list-around-a-given-value](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/partition-a-linked-list-around-a-given-value/) | Medium |
 | [polynomial-addition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/polynomial-addition/) | Medium |
 | [prime-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/prime-list/) | Medium |
@@ -1737,6 +1741,7 @@ Contains topicwise list of solved problems.
 ## Doubly Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [merge-sort-on-doubly-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/merge-sort-on-doubly-linked-list/) | Hard |
 | [sorted-insert-in-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sorted-insert-in-dll/) | Medium |
 
 ## Prime Number
@@ -1774,7 +1779,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [sort-k-sorted-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-k-sorted-dll/) | Medium |
 
+## Merge Sort For Doubly Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [merge-sort-on-doubly-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/merge-sort-on-doubly-linked-list/) | Hard |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
