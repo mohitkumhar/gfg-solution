@@ -115,6 +115,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -185,6 +186,7 @@ Contains topicwise list of solved problems.
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [sort-alternate-sorted-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-alternate-sorted-linked-list/) | Medium |
 | [sorted-and-rotated-minimum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/sorted-and-rotated-minimum/) | Easy |
+| [subtraction-in-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/subtraction-in-linked-list/) | Hard |
 | [swap-kth-nodes-from-ends](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/swap-kth-nodes-from-ends/) | Medium |
 | [target-sum-combinations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/target-sum-combinations/) | Medium |
 | [triplet-sum-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/triplet-sum-in-array/) | Medium |
@@ -922,7 +924,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1138,6 +1142,7 @@ Contains topicwise list of solved problems.
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [pascal-triangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/pascal-triangle/) | Medium |
+| [subtraction-in-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/subtraction-in-linked-list/) | Hard |
 | [target-sum-combinations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/target-sum-combinations/) | Medium |
 | [word-break-2](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/word-break-2/) | Hard |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
@@ -1657,6 +1662,7 @@ Contains topicwise list of solved problems.
 | [sort-k-sorted-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-k-sorted-dll/) | Medium |
 | [sort-singly-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-singly-linked-list/) | Medium |
 | [sorted-insert-in-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sorted-insert-in-dll/) | Medium |
+| [subtraction-in-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/subtraction-in-linked-list/) | Hard |
 | [swap-kth-nodes-from-ends](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/swap-kth-nodes-from-ends/) | Medium |
 | [union-of-two-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-two-linked-lists/) | Medium |
 
@@ -1769,6 +1775,7 @@ Contains topicwise list of solved problems.
 | [sort-k-sorted-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-k-sorted-dll/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
