@@ -113,6 +113,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -172,6 +173,7 @@ Contains topicwise list of solved problems.
 | [overlapping-intervals](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/overlapping-intervals/) | Medium |
 | [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
 | [pascal-triangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/pascal-triangle/) | Medium |
+| [polynomial-addition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/polynomial-addition/) | Medium |
 | [rearrange-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rearrange-a-linked-list/) | Medium |
 | [reorder-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reorder-list/) | Hard |
 | [reverse-alternate-in-link-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/reverse-alternate-in-link-list/) | Medium |
@@ -916,7 +918,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1616,6 +1620,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [minimize-max-distance-of-adjacent-gas-stations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimize-max-distance-of-adjacent-gas-stations/) | Hard |
+| [polynomial-addition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/polynomial-addition/) | Medium |
 | [prime-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/prime-list/) | Medium |
 
 ## Linked List
@@ -1631,6 +1636,7 @@ Contains topicwise list of solved problems.
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [merge-2-sorted-linked-lists-in-reverse-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-2-sorted-linked-lists-in-reverse-order/) | Medium |
 | [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
+| [polynomial-addition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/polynomial-addition/) | Medium |
 | [prime-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/prime-list/) | Medium |
 | [quick-sort-on-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/quick-sort-on-linked-list/) | Medium |
 | [rearrange-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rearrange-a-linked-list/) | Medium |
@@ -1751,6 +1757,7 @@ Contains topicwise list of solved problems.
 | [binary-tree-to-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/binary-tree-to-dll/) | Hard |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
