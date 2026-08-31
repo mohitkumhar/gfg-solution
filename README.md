@@ -1058,6 +1058,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1648,6 +1649,7 @@ Contains topicwise list of solved problems.
 | [segregate-evens-and-odds-in-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/segregate-evens-and-odds-in-a-linked-list/) | Medium |
 | [separate-consonants-and-vowels-in-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/separate-consonants-and-vowels-in-linked-list/) | Medium |
 | [sort-alternate-sorted-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-alternate-sorted-linked-list/) | Medium |
+| [sort-k-sorted-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-k-sorted-dll/) | Medium |
 | [sort-singly-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-singly-linked-list/) | Medium |
 | [sorted-insert-in-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sorted-insert-in-dll/) | Medium |
 | [swap-kth-nodes-from-ends](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/swap-kth-nodes-from-ends/) | Medium |
@@ -1756,7 +1758,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [binary-tree-to-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/binary-tree-to-dll/) | Hard |
 
+## Sort K Sorted Doubly Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-k-sorted-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-k-sorted-dll/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
