@@ -1101,6 +1101,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1184,12 +1185,14 @@ Contains topicwise list of solved problems.
 ## DFS
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [articulation-point](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/articulation-point/) | Hard |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
 
 ## Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [alien-dictionary](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/alien-dictionary/) | Hard |
+| [articulation-point](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/articulation-point/) | Hard |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
 
 ## Backtracking
@@ -1840,7 +1843,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [alien-dictionary](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/alien-dictionary/) | Hard |
 
+## BFS
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [articulation-point](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/articulation-point/) | Hard |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
