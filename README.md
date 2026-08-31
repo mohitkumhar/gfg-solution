@@ -117,6 +117,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -173,6 +174,7 @@ Contains topicwise list of solved problems.
 | [minimum-bracket-reversals-to-balance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-bracket-reversals-to-balance/) | Medium |
 | [minimum-days-to-make-m-bouquets](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-days-to-make-m-bouquets/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
+| [modify-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/modify-linked-list/) | Medium |
 | [next-permutation](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/next-permutation/) | Medium |
 | [overlapping-intervals](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/overlapping-intervals/) | Medium |
 | [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
@@ -939,7 +941,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1666,6 +1670,7 @@ Contains topicwise list of solved problems.
 | [merge-2-sorted-linked-lists-in-reverse-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-2-sorted-linked-lists-in-reverse-order/) | Medium |
 | [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 | [merge-sort-on-doubly-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/merge-sort-on-doubly-linked-list/) | Hard |
+| [modify-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/modify-linked-list/) | Medium |
 | [partition-a-linked-list-around-a-given-value](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/partition-a-linked-list-around-a-given-value/) | Medium |
 | [polynomial-addition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/polynomial-addition/) | Medium |
 | [prime-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/prime-list/) | Medium |
@@ -1801,7 +1806,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [merge-sort-on-doubly-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/merge-sort-on-doubly-linked-list/) | Hard |
 
+## Modify Contents Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [modify-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/modify-linked-list/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
