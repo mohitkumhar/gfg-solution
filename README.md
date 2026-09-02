@@ -1112,6 +1112,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1395,6 +1396,7 @@ Contains topicwise list of solved problems.
 | [0max-rectangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0max-rectangle/) | Hard |
 | [0row-with-max-1s-in-rowwise-sorted](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0row-with-max-1s-in-rowwise-sorted/) | Medium |
 | [0set-matrix-zeros](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0set-matrix-zeros/) | Medium |
+| [find-the-peak-element-in-a-2d-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/find-the-peak-element-in-a-2d-matrix/) | Medium |
 | [rotate-by-90-degree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rotate-by-90-degree/) | Medium |
 | [solve-the-sudoku](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/solve-the-sudoku/) | Hard |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
@@ -1413,6 +1415,7 @@ Contains topicwise list of solved problems.
 | [capacity-to-ship-packages-within-d-days](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/capacity-to-ship-packages-within-d-days/) | Medium |
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
 | [find-nth-root-of-m](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/find-nth-root-of-m/) | Medium |
+| [find-the-peak-element-in-a-2d-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/find-the-peak-element-in-a-2d-matrix/) | Medium |
 | [first-and-last-in-sorted](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/first-and-last-in-sorted/) | Medium |
 | [koko-eating-bananas](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/koko-eating-bananas/) | Medium |
 | [median-of-2-sorted-arrays-of-different-sizes](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/median-of-2-sorted-arrays-of-different-sizes/) | Hard |
@@ -1866,7 +1869,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [circle-of-strings](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/circle-of-strings/) | Hard |
 
+## Find Peak Element 2d Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [find-the-peak-element-in-a-2d-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/find-the-peak-element-in-a-2d-matrix/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
