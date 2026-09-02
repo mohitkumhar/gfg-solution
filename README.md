@@ -124,6 +124,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -195,6 +196,7 @@ Contains topicwise list of solved problems.
 | [reverse-alternate-in-link-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/reverse-alternate-in-link-list/) | Medium |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [separate-consonants-and-vowels-in-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/separate-consonants-and-vowels-in-linked-list/) | Medium |
+| [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
 | [single-among-doubles-in-a-sorted](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/single-among-doubles-in-a-sorted/) | Medium |
 | [solve-the-sudoku](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/solve-the-sudoku/) | Hard |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
@@ -256,6 +258,7 @@ Contains topicwise list of solved problems.
 | [rotate-by-90-degree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rotate-by-90-degree/) | Medium |
 | [search-pattern-rabin-karp-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/search-pattern-rabin-karp-algorithm/) | Hard |
 | [search-pattern](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Hard/search-pattern/) | Hard |
+| [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
 | [solve-the-sudoku](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/solve-the-sudoku/) | Hard |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [sort-singly-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-singly-linked-list/) | Medium |
@@ -300,6 +303,7 @@ Contains topicwise list of solved problems.
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
 | [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
 | [rotate-by-90-degree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rotate-by-90-degree/) | Medium |
+| [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
 | [solve-the-sudoku](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/solve-the-sudoku/) | Hard |
 | [strings-rotations-of-each-other](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/strings-rotations-of-each-other/) | Medium |
 | [swap-kth-nodes-from-ends](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/swap-kth-nodes-from-ends/) | Medium |
@@ -336,6 +340,7 @@ Contains topicwise list of solved problems.
 | [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
 | [nodes-at-distance-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/nodes-at-distance-in-binary-tree/) | Hard |
+| [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
 | [triplet-sum-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/triplet-sum-in-array/) | Medium |
 
 ## OYO Rooms
@@ -421,6 +426,7 @@ Contains topicwise list of solved problems.
 | [intersection-point-in-y-shaped-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-point-in-y-shaped-linked-lists/) | Medium |
 | [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 | [search-pattern](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Hard/search-pattern/) | Hard |
+| [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
 | [solve-the-sudoku](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/solve-the-sudoku/) | Hard |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
@@ -451,6 +457,7 @@ Contains topicwise list of solved problems.
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
 | [next-permutation](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/next-permutation/) | Medium |
 | [nodes-at-distance-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/nodes-at-distance-in-binary-tree/) | Hard |
+| [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
 | [solve-the-sudoku](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/solve-the-sudoku/) | Hard |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
@@ -544,6 +551,7 @@ Contains topicwise list of solved problems.
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [rotate-by-90-degree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rotate-by-90-degree/) | Medium |
 | [search-in-rotated-array-2](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/search-in-rotated-array-2/) | Medium |
+| [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [sorted-and-rotated-minimum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/sorted-and-rotated-minimum/) | Easy |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
@@ -584,6 +592,7 @@ Contains topicwise list of solved problems.
 | [0set-matrix-zeros](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0set-matrix-zeros/) | Medium |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [search-in-rotated-array-2](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/search-in-rotated-array-2/) | Medium |
+| [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
 
 ## PayPal
 | Problem Name | Difficulty |
@@ -620,6 +629,7 @@ Contains topicwise list of solved problems.
 | [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 | [quick-sort-on-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/quick-sort-on-linked-list/) | Medium |
 | [rotate-by-90-degree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rotate-by-90-degree/) | Medium |
+| [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
 
@@ -862,6 +872,17 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0min-distance-between-two-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0min-distance-between-two-in-binary-tree/) | Hard |
+| [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
+
+## Quikr
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
+
+## InMobi
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
 
 <!---GeeksForGeeks Companies End-->
 
@@ -985,7 +1006,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1861,6 +1884,7 @@ Contains topicwise list of solved problems.
 | [0min-distance-between-two-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0min-distance-between-two-in-binary-tree/) | Hard |
 | [binary-tree-to-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/binary-tree-to-dll/) | Hard |
 | [nodes-at-distance-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/nodes-at-distance-in-binary-tree/) | Hard |
+| [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
 
 ## Sort K Sorted Doubly Linked List
 | Problem Name | Difficulty |
@@ -1912,7 +1936,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [nodes-at-distance-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/nodes-at-distance-in-binary-tree/) | Hard |
 
+## Flipkart Interview Set 8 Sde 1
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
+
+## Serialize Deserialize Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
