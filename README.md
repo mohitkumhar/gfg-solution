@@ -122,6 +122,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -148,6 +149,7 @@ Contains topicwise list of solved problems.
 | [0kth-smallest-element-in-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest-element-in-a-matrix/) | Medium |
 | [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [0max-rectangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0max-rectangle/) | Hard |
+| [0min-distance-between-two-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0min-distance-between-two-in-binary-tree/) | Hard |
 | [0rat-in-a-maze](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0rat-in-a-maze/) | Medium |
 | [0set-matrix-zeros](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0set-matrix-zeros/) | Medium |
 | [absolute-list-sorting](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/absolute-list-sorting/) | Medium |
@@ -354,6 +356,7 @@ Contains topicwise list of solved problems.
 | [0all-string-permutations-in-sorted-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0all-string-permutations-in-sorted-order/) | Hard |
 | [0kth-smallest-element-in-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest-element-in-a-matrix/) | Medium |
 | [0max-rectangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0max-rectangle/) | Hard |
+| [0min-distance-between-two-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0min-distance-between-two-in-binary-tree/) | Hard |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [gold-mine-problem](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/gold-mine-problem/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
@@ -617,6 +620,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
 | [0max-rectangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0max-rectangle/) | Hard |
+| [0min-distance-between-two-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0min-distance-between-two-in-binary-tree/) | Hard |
 | [clone-list-with-next-and-random](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/clone-list-with-next-and-random/) | Hard |
 | [count-inversions](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-inversions/) | Medium |
 | [intersection-in-y-shaped-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-in-y-shaped-lists/) | Medium |
@@ -633,6 +637,7 @@ Contains topicwise list of solved problems.
 ## Ola Cabs
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0min-distance-between-two-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0min-distance-between-two-in-binary-tree/) | Hard |
 | [clone-list-with-next-and-random](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/clone-list-with-next-and-random/) | Hard |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
@@ -650,6 +655,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
+| [0min-distance-between-two-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0min-distance-between-two-in-binary-tree/) | Hard |
 | [intersection-in-y-shaped-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-in-y-shaped-lists/) | Medium |
 | [intersection-point-in-y-shaped-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-point-in-y-shaped-linked-lists/) | Medium |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
@@ -842,6 +848,11 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [union-of-two-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-two-linked-lists/) | Medium |
 
+## Linkedin
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0min-distance-between-two-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0min-distance-between-two-in-binary-tree/) | Hard |
+
 <!---GeeksForGeeks Companies End-->
 
 
@@ -962,7 +973,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1832,6 +1845,7 @@ Contains topicwise list of solved problems.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0min-distance-between-two-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0min-distance-between-two-in-binary-tree/) | Hard |
 | [binary-tree-to-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/binary-tree-to-dll/) | Hard |
 
 ## Sort K Sorted Doubly Linked List
@@ -1875,6 +1889,7 @@ Contains topicwise list of solved problems.
 | [find-the-peak-element-in-a-2d-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/find-the-peak-element-in-a-2d-matrix/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
