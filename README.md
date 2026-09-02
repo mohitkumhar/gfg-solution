@@ -125,6 +125,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -148,6 +149,7 @@ Contains topicwise list of solved problems.
 | [0add-1-to-a-linked-list-number](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-1-to-a-linked-list-number/) | Medium |
 | [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
 | [0all-string-permutations-in-sorted-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0all-string-permutations-in-sorted-order/) | Hard |
+| [0avl-tree-deletion](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0avl-tree-deletion/) | Hard |
 | [0kth-smallest-element-in-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest-element-in-a-matrix/) | Medium |
 | [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [0max-rectangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0max-rectangle/) | Hard |
@@ -383,6 +385,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
 | [0all-subsequences-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/0all-subsequences-of-a-string/) | Medium |
+| [0avl-tree-deletion](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0avl-tree-deletion/) | Hard |
 | [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [binary-tree-to-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/binary-tree-to-dll/) | Hard |
 | [clone-list-with-next-and-random](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/clone-list-with-next-and-random/) | Hard |
@@ -574,6 +577,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
+| [0avl-tree-deletion](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0avl-tree-deletion/) | Hard |
 | [binary-tree-to-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/binary-tree-to-dll/) | Hard |
 | [clone-list-with-next-and-random](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/clone-list-with-next-and-random/) | Hard |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
@@ -637,6 +641,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
+| [0avl-tree-deletion](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0avl-tree-deletion/) | Hard |
 | [0max-rectangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0max-rectangle/) | Hard |
 | [0min-distance-between-two-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0min-distance-between-two-in-binary-tree/) | Hard |
 | [clone-list-with-next-and-random](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/clone-list-with-next-and-random/) | Hard |
@@ -723,6 +728,7 @@ Contains topicwise list of solved problems.
 ## Oracle
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0avl-tree-deletion](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0avl-tree-deletion/) | Hard |
 | [0set-matrix-zeros](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0set-matrix-zeros/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [search-pattern](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Hard/search-pattern/) | Hard |
@@ -884,6 +890,11 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
 
+## Oxigen Wallet
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0avl-tree-deletion](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0avl-tree-deletion/) | Hard |
+
 <!---GeeksForGeeks Companies End-->
 
 
@@ -1007,7 +1018,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1882,6 +1895,7 @@ Contains topicwise list of solved problems.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0avl-tree-deletion](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0avl-tree-deletion/) | Hard |
 | [0min-distance-between-two-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0min-distance-between-two-in-binary-tree/) | Hard |
 | [binary-tree-to-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/binary-tree-to-dll/) | Hard |
 | [nodes-at-distance-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/nodes-at-distance-in-binary-tree/) | Hard |
@@ -1953,7 +1967,23 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [possible-paths-in-a-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/possible-paths-in-a-tree/) | Hard |
 
+## AVL Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0avl-tree-deletion](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0avl-tree-deletion/) | Hard |
+
+## Advanced Data Structure
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0avl-tree-deletion](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0avl-tree-deletion/) | Hard |
+
+## Deletion In An Avl Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0avl-tree-deletion](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0avl-tree-deletion/) | Hard |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
