@@ -126,6 +126,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -299,6 +300,7 @@ Contains topicwise list of solved problems.
 | [largest-subarray-with-0-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-subarray-with-0-sum/) | Medium |
 | [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
 | [maximum-product-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/maximum-product-subarray/) | Medium |
+| [median-in-a-row-wise-sorted-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/median-in-a-row-wise-sorted-matrix/) | Medium |
 | [median-of-2-sorted-arrays-of-different-sizes](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/median-of-2-sorted-arrays-of-different-sizes/) | Hard |
 | [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 | [minimum-days-to-make-m-bouquets](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-days-to-make-m-bouquets/) | Medium |
@@ -1019,7 +1021,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1460,6 +1464,7 @@ Contains topicwise list of solved problems.
 | [0row-with-max-1s-in-rowwise-sorted](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0row-with-max-1s-in-rowwise-sorted/) | Medium |
 | [0set-matrix-zeros](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0set-matrix-zeros/) | Medium |
 | [find-the-peak-element-in-a-2d-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/find-the-peak-element-in-a-2d-matrix/) | Medium |
+| [median-in-a-row-wise-sorted-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/median-in-a-row-wise-sorted-matrix/) | Medium |
 | [rotate-by-90-degree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rotate-by-90-degree/) | Medium |
 | [solve-the-sudoku](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/solve-the-sudoku/) | Hard |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
@@ -1481,6 +1486,7 @@ Contains topicwise list of solved problems.
 | [find-the-peak-element-in-a-2d-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/find-the-peak-element-in-a-2d-matrix/) | Medium |
 | [first-and-last-in-sorted](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/first-and-last-in-sorted/) | Medium |
 | [koko-eating-bananas](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/koko-eating-bananas/) | Medium |
+| [median-in-a-row-wise-sorted-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/median-in-a-row-wise-sorted-matrix/) | Medium |
 | [median-of-2-sorted-arrays-of-different-sizes](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/median-of-2-sorted-arrays-of-different-sizes/) | Hard |
 | [minimize-max-distance-of-adjacent-gas-stations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimize-max-distance-of-adjacent-gas-stations/) | Hard |
 | [minimum-days-to-make-m-bouquets](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-days-to-make-m-bouquets/) | Medium |
@@ -1982,7 +1988,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0avl-tree-deletion](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0avl-tree-deletion/) | Hard |
 
+## Find Median Row Wise Sorted Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [median-in-a-row-wise-sorted-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/median-in-a-row-wise-sorted-matrix/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
