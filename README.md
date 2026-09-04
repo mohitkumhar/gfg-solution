@@ -127,6 +127,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -208,6 +209,7 @@ Contains topicwise list of solved problems.
 | [subtraction-in-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/subtraction-in-linked-list/) | Hard |
 | [swap-kth-nodes-from-ends](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/swap-kth-nodes-from-ends/) | Medium |
 | [target-sum-combinations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/target-sum-combinations/) | Medium |
+| [tree-boundary-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/tree-boundary-traversal/) | Medium |
 | [triplet-sum-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/triplet-sum-in-array/) | Medium |
 | [union-of-2-sorted-arrays](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-2-sorted-arrays/) | Medium |
 | [union-of-two-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-two-linked-lists/) | Medium |
@@ -269,6 +271,7 @@ Contains topicwise list of solved problems.
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
 | [subarrays-with-sum-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/subarrays-with-sum-k/) | Medium |
 | [target-sum-combinations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/target-sum-combinations/) | Medium |
+| [tree-boundary-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/tree-boundary-traversal/) | Medium |
 | [triplet-sum-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/triplet-sum-in-array/) | Medium |
 | [union-of-two-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-two-linked-lists/) | Medium |
 | [word-break](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-break/) | Medium |
@@ -345,6 +348,7 @@ Contains topicwise list of solved problems.
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
 | [nodes-at-distance-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/nodes-at-distance-in-binary-tree/) | Hard |
 | [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
+| [tree-boundary-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/tree-boundary-traversal/) | Medium |
 | [triplet-sum-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/triplet-sum-in-array/) | Medium |
 
 ## OYO Rooms
@@ -361,6 +365,7 @@ Contains topicwise list of solved problems.
 | [reorder-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reorder-list/) | Hard |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
+| [tree-boundary-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/tree-boundary-traversal/) | Medium |
 | [triplet-sum-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/triplet-sum-in-array/) | Medium |
 
 ## Samsung
@@ -380,6 +385,7 @@ Contains topicwise list of solved problems.
 | [solve-the-sudoku](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/solve-the-sudoku/) | Hard |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [sorted-and-rotated-minimum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/sorted-and-rotated-minimum/) | Easy |
+| [tree-boundary-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/tree-boundary-traversal/) | Medium |
 | [triplet-sum-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/triplet-sum-in-array/) | Medium |
 
 ## Snapdeal
@@ -399,6 +405,7 @@ Contains topicwise list of solved problems.
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [sorted-and-rotated-minimum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/sorted-and-rotated-minimum/) | Easy |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
+| [tree-boundary-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/tree-boundary-traversal/) | Medium |
 
 ## Citrix
 | Problem Name | Difficulty |
@@ -466,6 +473,7 @@ Contains topicwise list of solved problems.
 | [solve-the-sudoku](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/solve-the-sudoku/) | Hard |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
+| [tree-boundary-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/tree-boundary-traversal/) | Medium |
 | [union-of-two-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-two-linked-lists/) | Medium |
 | [word-break](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-break/) | Medium |
 
@@ -478,6 +486,7 @@ Contains topicwise list of solved problems.
 | [next-permutation](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/next-permutation/) | Medium |
 | [nodes-at-distance-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/nodes-at-distance-in-binary-tree/) | Hard |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
+| [tree-boundary-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/tree-boundary-traversal/) | Medium |
 | [word-break](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-break/) | Medium |
 
 ## Google
@@ -591,6 +600,7 @@ Contains topicwise list of solved problems.
 | [sorted-and-rotated-minimum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/sorted-and-rotated-minimum/) | Easy |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
 | [swap-kth-nodes-from-ends](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/swap-kth-nodes-from-ends/) | Medium |
+| [tree-boundary-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/tree-boundary-traversal/) | Medium |
 
 ## Yahoo
 | Problem Name | Difficulty |
@@ -716,6 +726,7 @@ Contains topicwise list of solved problems.
 | [intersection-point-in-y-shaped-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-point-in-y-shaped-linked-lists/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [next-permutation](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/next-permutation/) | Medium |
+| [tree-boundary-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/tree-boundary-traversal/) | Medium |
 
 ## Housing.com
 | Problem Name | Difficulty |
@@ -744,6 +755,7 @@ Contains topicwise list of solved problems.
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
 | [search-pattern](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Hard/search-pattern/) | Hard |
+| [tree-boundary-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/tree-boundary-traversal/) | Medium |
 
 ## Teradata
 | Problem Name | Difficulty |
@@ -897,6 +909,11 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0avl-tree-deletion](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0avl-tree-deletion/) | Hard |
 
+## Kritikal Solutions
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [tree-boundary-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/tree-boundary-traversal/) | Medium |
+
 <!---GeeksForGeeks Companies End-->
 
 
@@ -1022,7 +1039,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1907,6 +1926,7 @@ Contains topicwise list of solved problems.
 | [nodes-at-distance-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/nodes-at-distance-in-binary-tree/) | Hard |
 | [possible-paths-in-a-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/possible-paths-in-a-tree/) | Hard |
 | [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
+| [tree-boundary-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/tree-boundary-traversal/) | Medium |
 
 ## Sort K Sorted Doubly Linked List
 | Problem Name | Difficulty |
@@ -1993,7 +2013,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [median-in-a-row-wise-sorted-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/median-in-a-row-wise-sorted-matrix/) | Medium |
 
+## Boundary Traversal Of Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [tree-boundary-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/tree-boundary-traversal/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
