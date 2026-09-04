@@ -129,6 +129,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -159,6 +160,7 @@ Contains topicwise list of solved problems.
 | [0min-distance-between-two-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0min-distance-between-two-in-binary-tree/) | Hard |
 | [0rat-in-a-maze](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0rat-in-a-maze/) | Medium |
 | [0set-matrix-zeros](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0set-matrix-zeros/) | Medium |
+| [0zig-zag-tree-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0zig-zag-tree-traversal/) | Medium |
 | [absolute-list-sorting](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/absolute-list-sorting/) | Medium |
 | [alien-dictionary](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/alien-dictionary/) | Hard |
 | [allocate-minimum-pages](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/allocate-minimum-pages/) | Medium |
@@ -226,6 +228,7 @@ Contains topicwise list of solved problems.
 | [0max-rectangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0max-rectangle/) | Hard |
 | [0rat-in-a-maze](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0rat-in-a-maze/) | Medium |
 | [0the-painters-partition-problem-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0the-painters-partition-problem-ii/) | Hard |
+| [0zig-zag-tree-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0zig-zag-tree-traversal/) | Medium |
 | [alien-dictionary](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/alien-dictionary/) | Hard |
 | [allocate-minimum-pages](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/allocate-minimum-pages/) | Medium |
 | [binary-tree-to-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/binary-tree-to-dll/) | Hard |
@@ -397,6 +400,7 @@ Contains topicwise list of solved problems.
 | [0all-subsequences-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/0all-subsequences-of-a-string/) | Medium |
 | [0avl-tree-deletion](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0avl-tree-deletion/) | Hard |
 | [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
+| [0zig-zag-tree-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0zig-zag-tree-traversal/) | Medium |
 | [binary-tree-to-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/binary-tree-to-dll/) | Hard |
 | [clone-list-with-next-and-random](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/clone-list-with-next-and-random/) | Hard |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
@@ -420,6 +424,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0top-view-of-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0top-view-of-binary-tree/) | Medium |
+| [0zig-zag-tree-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0zig-zag-tree-traversal/) | Medium |
 | [alien-dictionary](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/alien-dictionary/) | Hard |
 | [clone-list-with-next-and-random](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/clone-list-with-next-and-random/) | Hard |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
@@ -452,6 +457,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0all-string-permutations-in-sorted-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0all-string-permutations-in-sorted-order/) | Hard |
 | [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
+| [0zig-zag-tree-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0zig-zag-tree-traversal/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
 
@@ -460,6 +466,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
 | [0max-rectangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0max-rectangle/) | Hard |
+| [0zig-zag-tree-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0zig-zag-tree-traversal/) | Medium |
 | [alien-dictionary](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/alien-dictionary/) | Hard |
 | [circle-of-strings](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/circle-of-strings/) | Hard |
 | [clone-list-with-next-and-random](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/clone-list-with-next-and-random/) | Hard |
@@ -484,6 +491,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
+| [0zig-zag-tree-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0zig-zag-tree-traversal/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [next-permutation](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/next-permutation/) | Medium |
@@ -726,6 +734,7 @@ Contains topicwise list of solved problems.
 ## FactSet
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0zig-zag-tree-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0zig-zag-tree-traversal/) | Medium |
 | [circle-of-strings](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/circle-of-strings/) | Hard |
 | [intersection-in-y-shaped-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-in-y-shaped-lists/) | Medium |
 | [intersection-point-in-y-shaped-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-point-in-y-shaped-linked-lists/) | Medium |
@@ -1046,7 +1055,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1930,6 +1941,7 @@ Contains topicwise list of solved problems.
 | [0avl-tree-deletion](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0avl-tree-deletion/) | Hard |
 | [0min-distance-between-two-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0min-distance-between-two-in-binary-tree/) | Hard |
 | [0top-view-of-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0top-view-of-binary-tree/) | Medium |
+| [0zig-zag-tree-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0zig-zag-tree-traversal/) | Medium |
 | [binary-tree-to-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/binary-tree-to-dll/) | Hard |
 | [nodes-at-distance-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/nodes-at-distance-in-binary-tree/) | Hard |
 | [possible-paths-in-a-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/possible-paths-in-a-tree/) | Hard |
@@ -2031,7 +2043,23 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0top-view-of-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0top-view-of-binary-tree/) | Medium |
 
+## Traversal
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0zig-zag-tree-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0zig-zag-tree-traversal/) | Medium |
+
+## Flipkart Interview Experience Set 24
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0zig-zag-tree-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0zig-zag-tree-traversal/) | Medium |
+
+## Zigzag Tree Traversal
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0zig-zag-tree-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0zig-zag-tree-traversal/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
