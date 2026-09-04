@@ -131,6 +131,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -170,6 +171,7 @@ Contains topicwise list of solved problems.
 | [clone-list-with-next-and-random](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/clone-list-with-next-and-random/) | Hard |
 | [count-inversions](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-inversions/) | Medium |
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
+| [diameter-of-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/diameter-of-a-binary-tree/) | Medium |
 | [distinct-occurrences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/distinct-occurrences/) | Hard |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
@@ -237,6 +239,7 @@ Contains topicwise list of solved problems.
 | [clone-list-with-next-and-random](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/clone-list-with-next-and-random/) | Hard |
 | [count-inversions](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-inversions/) | Medium |
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
+| [diameter-of-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/diameter-of-a-binary-tree/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
 | [first-and-last-in-sorted](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/first-and-last-in-sorted/) | Medium |
@@ -305,6 +308,7 @@ Contains topicwise list of solved problems.
 | [0top-view-of-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0top-view-of-binary-tree/) | Medium |
 | [allocate-minimum-pages](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/allocate-minimum-pages/) | Medium |
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
+| [diameter-of-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/diameter-of-a-binary-tree/) | Medium |
 | [koko-eating-bananas](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/koko-eating-bananas/) | Medium |
 | [largest-subarray-with-0-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-subarray-with-0-sum/) | Medium |
 | [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
@@ -365,6 +369,7 @@ Contains topicwise list of solved problems.
 | [absolute-list-sorting](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/absolute-list-sorting/) | Medium |
 | [alien-dictionary](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/alien-dictionary/) | Hard |
 | [clone-list-with-next-and-random](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/clone-list-with-next-and-random/) | Hard |
+| [diameter-of-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/diameter-of-a-binary-tree/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [linked-list-in-zig-zag-fashion](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/linked-list-in-zig-zag-fashion/) | Medium |
 | [maximum-product-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/maximum-product-subarray/) | Medium |
@@ -1058,7 +1063,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1946,6 +1953,7 @@ Contains topicwise list of solved problems.
 | [0top-view-of-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0top-view-of-binary-tree/) | Medium |
 | [0zig-zag-tree-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0zig-zag-tree-traversal/) | Medium |
 | [binary-tree-to-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/binary-tree-to-dll/) | Hard |
+| [diameter-of-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/diameter-of-a-binary-tree/) | Medium |
 | [nodes-at-distance-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/nodes-at-distance-in-binary-tree/) | Hard |
 | [possible-paths-in-a-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/possible-paths-in-a-tree/) | Hard |
 | [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
@@ -2061,7 +2069,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0zig-zag-tree-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0zig-zag-tree-traversal/) | Medium |
 
+## Diameter Of A Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [diameter-of-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/diameter-of-a-binary-tree/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
