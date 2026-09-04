@@ -128,6 +128,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -297,6 +298,7 @@ Contains topicwise list of solved problems.
 | [0004-sum-all-quadruples](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0004-sum-all-quadruples/) | Medium |
 | [0min-and-max-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Basic/0min-and-max-in-array/) | Basic |
 | [0set-matrix-zeros](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0set-matrix-zeros/) | Medium |
+| [0top-view-of-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0top-view-of-binary-tree/) | Medium |
 | [allocate-minimum-pages](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/allocate-minimum-pages/) | Medium |
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
 | [koko-eating-bananas](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/koko-eating-bananas/) | Medium |
@@ -417,6 +419,7 @@ Contains topicwise list of solved problems.
 ## Walmart
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0top-view-of-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0top-view-of-binary-tree/) | Medium |
 | [alien-dictionary](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/alien-dictionary/) | Hard |
 | [clone-list-with-next-and-random](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/clone-list-with-next-and-random/) | Hard |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
@@ -641,6 +644,7 @@ Contains topicwise list of solved problems.
 ## Paytm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0top-view-of-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0top-view-of-binary-tree/) | Medium |
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
 | [quick-sort-on-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/quick-sort-on-linked-list/) | Medium |
@@ -673,6 +677,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0min-distance-between-two-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0min-distance-between-two-in-binary-tree/) | Hard |
+| [0top-view-of-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0top-view-of-binary-tree/) | Medium |
 | [clone-list-with-next-and-random](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/clone-list-with-next-and-random/) | Hard |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
@@ -1040,7 +1045,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1922,6 +1929,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0avl-tree-deletion](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0avl-tree-deletion/) | Hard |
 | [0min-distance-between-two-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0min-distance-between-two-in-binary-tree/) | Hard |
+| [0top-view-of-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0top-view-of-binary-tree/) | Medium |
 | [binary-tree-to-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/binary-tree-to-dll/) | Hard |
 | [nodes-at-distance-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/nodes-at-distance-in-binary-tree/) | Hard |
 | [possible-paths-in-a-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/possible-paths-in-a-tree/) | Hard |
@@ -2018,7 +2026,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [tree-boundary-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/tree-boundary-traversal/) | Medium |
 
+## Print Nodes Top View Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0top-view-of-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0top-view-of-binary-tree/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
