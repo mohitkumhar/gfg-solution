@@ -1253,6 +1253,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1337,6 +1338,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [articulation-point](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/articulation-point/) | Hard |
+| [minimum-cost-to-visit-favorite-colonies](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimum-cost-to-visit-favorite-colonies/) | Hard |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
 
 ## Graph
@@ -1345,6 +1347,7 @@ Contains topicwise list of solved problems.
 | [alien-dictionary](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/alien-dictionary/) | Hard |
 | [articulation-point](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/articulation-point/) | Hard |
 | [circle-of-strings](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/circle-of-strings/) | Hard |
+| [minimum-cost-to-visit-favorite-colonies](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimum-cost-to-visit-favorite-colonies/) | Hard |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
 
 ## Backtracking
@@ -1983,6 +1986,7 @@ Contains topicwise list of solved problems.
 | [binary-tree-to-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/binary-tree-to-dll/) | Hard |
 | [bottom-view-of-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/bottom-view-of-binary-tree/) | Medium |
 | [diameter-of-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/diameter-of-a-binary-tree/) | Medium |
+| [minimum-cost-to-visit-favorite-colonies](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimum-cost-to-visit-favorite-colonies/) | Hard |
 | [nodes-at-distance-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/nodes-at-distance-in-binary-tree/) | Hard |
 | [possible-paths-in-a-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/possible-paths-in-a-tree/) | Hard |
 | [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
@@ -2017,6 +2021,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [articulation-point](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/articulation-point/) | Hard |
+| [minimum-cost-to-visit-favorite-colonies](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimum-cost-to-visit-favorite-colonies/) | Hard |
 
 ## Flipkart Internship Interview On Campus
 | Problem Name | Difficulty |
@@ -2119,6 +2124,7 @@ Contains topicwise list of solved problems.
 | [implement-atoi](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/implement-atoi/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
