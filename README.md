@@ -1258,6 +1258,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1379,6 +1380,7 @@ Contains topicwise list of solved problems.
 | [alien-dictionary](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/alien-dictionary/) | Hard |
 | [circle-of-strings](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/circle-of-strings/) | Hard |
 | [convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence/) | Easy |
+| [count-distinct-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Hard/count-distinct-subsequences/) | Hard |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
 | [implement-atoi](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/implement-atoi/) | Medium |
@@ -1423,6 +1425,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0max-rectangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0max-rectangle/) | Hard |
 | [0the-painters-partition-problem-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0the-painters-partition-problem-ii/) | Hard |
+| [count-distinct-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Hard/count-distinct-subsequences/) | Hard |
 | [count-subsequences-divisible-by-n](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-subsequences-divisible-by-n/) | Medium |
 | [distinct-occurrences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/distinct-occurrences/) | Hard |
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
@@ -1775,6 +1778,7 @@ Contains topicwise list of solved problems.
 ## Count Distinct Subsequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [count-distinct-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Hard/count-distinct-subsequences/) | Hard |
 | [number-of-distinct-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/number-of-distinct-subsequences/) | Hard |
 
 ## Find The Largest Subarray With 0 Sum
@@ -2133,6 +2137,7 @@ Contains topicwise list of solved problems.
 | [implement-atoi](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/implement-atoi/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
