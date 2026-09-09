@@ -1266,6 +1266,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1274,6 +1275,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [0min-and-max-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Basic/0min-and-max-in-array/) | Basic |
+| [account-merge](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/account-merge/) | Hard |
 | [capacity-to-ship-packages-within-d-days](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/capacity-to-ship-packages-within-d-days/) | Medium |
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
 | [count-inversions](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-inversions/) | Medium |
@@ -1349,6 +1351,7 @@ Contains topicwise list of solved problems.
 ## DFS
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [account-merge](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/account-merge/) | Hard |
 | [articulation-point](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/articulation-point/) | Hard |
 | [count-groups-of-1s-surrounded-by-0s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-groups-of-1s-surrounded-by-0s/) | Hard |
 | [minimum-cost-to-visit-favorite-colonies](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimum-cost-to-visit-favorite-colonies/) | Hard |
@@ -1357,6 +1360,7 @@ Contains topicwise list of solved problems.
 ## Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [account-merge](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/account-merge/) | Hard |
 | [alien-dictionary](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/alien-dictionary/) | Hard |
 | [articulation-point](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/articulation-point/) | Hard |
 | [circle-of-strings](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/circle-of-strings/) | Hard |
@@ -1663,6 +1667,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-sum-all-quadruples](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0004-sum-all-quadruples/) | Medium |
+| [account-merge](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/account-merge/) | Hard |
 | [convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence/) | Easy |
 | [largest-subarray-with-0-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-subarray-with-0-sum/) | Medium |
 | [longest-subarray-with-sum-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-subarray-with-sum-k/) | Medium |
@@ -2077,6 +2082,7 @@ Contains topicwise list of solved problems.
 ## union-find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [account-merge](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/account-merge/) | Hard |
 | [count-groups-of-1s-surrounded-by-0s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-groups-of-1s-surrounded-by-0s/) | Hard |
 | [possible-paths-in-a-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/possible-paths-in-a-tree/) | Hard |
 
@@ -2145,7 +2151,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [implement-atoi](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/implement-atoi/) | Medium |
 
+## Email Account Merging
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [account-merge](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/account-merge/) | Hard |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
