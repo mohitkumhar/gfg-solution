@@ -1277,6 +1277,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1367,6 +1368,7 @@ Contains topicwise list of solved problems.
 | [count-groups-of-1s-surrounded-by-0s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-groups-of-1s-surrounded-by-0s/) | Hard |
 | [minimum-cost-to-visit-favorite-colonies](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimum-cost-to-visit-favorite-colonies/) | Hard |
 | [party-in-town](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/party-in-town/) | Medium |
+| [shortest-safe-route-in-grid](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/shortest-safe-route-in-grid/) | Medium |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
 
 ## Graph
@@ -1378,6 +1380,7 @@ Contains topicwise list of solved problems.
 | [circle-of-strings](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/circle-of-strings/) | Hard |
 | [count-groups-of-1s-surrounded-by-0s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-groups-of-1s-surrounded-by-0s/) | Hard |
 | [minimum-cost-to-visit-favorite-colonies](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimum-cost-to-visit-favorite-colonies/) | Hard |
+| [shortest-safe-route-in-grid](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/shortest-safe-route-in-grid/) | Medium |
 | [shortest-transformation-length-in-a-word-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/shortest-transformation-length-in-a-word-list/) | Hard |
 | [shortest-transformation-sequences-in-a-word-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/shortest-transformation-sequences-in-a-word-list/) | Hard |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
@@ -2181,6 +2184,7 @@ Contains topicwise list of solved problems.
 | [shortest-transformation-sequences-in-a-word-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/shortest-transformation-sequences-in-a-word-list/) | Hard |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
