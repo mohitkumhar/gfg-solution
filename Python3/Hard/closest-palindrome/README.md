@@ -1,0 +1,10 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/closest-palindrome4519/1">Closest Palindrome</a></h2><h3>Hard</h3><hr><p><span style="font-size: 14pt;"><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Given a numeric string </span><strong>num</strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">, find the closest palindrome number</span><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">&nbsp;such that the absolute difference between the palindrome and </span>num<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"> is minimum.</span></span><span style="font-size: 14pt;">&nbsp;</span><span style="font-size: 14pt;">If there are multiple palindrome numbers with the same absolute difference, return the smaller one.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>num = "9"
+<strong>Output: </strong>"9"
+<strong>Explanation: </strong>9 itself is a palindrome number.</span>
+</pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>num = "489"
+<strong>Output: </strong>"484"
+<strong>Explanation: </strong>closest palindrome numbers from 489 are 484 and 494. Absolute difference between 489 and 494 is equal to the absolute difference between 484 and 489 but 484 is smaller than 494.</span>&nbsp;</pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 &lt;= n&lt;= 10<sup>14</sup></span></p>
