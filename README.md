@@ -1278,6 +1278,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1369,6 +1370,7 @@ Contains topicwise list of solved problems.
 | [minimum-cost-to-visit-favorite-colonies](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimum-cost-to-visit-favorite-colonies/) | Hard |
 | [party-in-town](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/party-in-town/) | Medium |
 | [shortest-safe-route-in-grid](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/shortest-safe-route-in-grid/) | Medium |
+| [water-connection-problem](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/water-connection-problem/) | Hard |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
 
 ## Graph
@@ -1383,6 +1385,7 @@ Contains topicwise list of solved problems.
 | [shortest-safe-route-in-grid](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/shortest-safe-route-in-grid/) | Medium |
 | [shortest-transformation-length-in-a-word-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/shortest-transformation-length-in-a-word-list/) | Hard |
 | [shortest-transformation-sequences-in-a-word-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/shortest-transformation-sequences-in-a-word-list/) | Hard |
+| [water-connection-problem](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/water-connection-problem/) | Hard |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
 
 ## Backtracking
@@ -1562,6 +1565,7 @@ Contains topicwise list of solved problems.
 | [meeting-rooms-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/meeting-rooms-ii/) | Medium |
 | [minimize-the-heights-i](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-i/) | Medium |
 | [minimize-the-heights-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-ii/) | Medium |
+| [water-connection-problem](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/water-connection-problem/) | Hard |
 
 ## Find The Row With Maximum Number 1s
 | Problem Name | Difficulty |
@@ -2183,7 +2187,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [shortest-transformation-sequences-in-a-word-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/shortest-transformation-sequences-in-a-word-list/) | Hard |
 
+## Water Connection Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [water-connection-problem](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/water-connection-problem/) | Hard |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
