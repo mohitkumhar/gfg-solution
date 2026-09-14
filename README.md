@@ -137,6 +137,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -175,6 +176,7 @@ Contains topicwise list of solved problems.
 | [bottom-view-of-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/bottom-view-of-binary-tree/) | Medium |
 | [capacity-to-ship-packages-within-d-days](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/capacity-to-ship-packages-within-d-days/) | Medium |
 | [clone-list-with-next-and-random](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/clone-list-with-next-and-random/) | Hard |
+| [closest-palindrome](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/closest-palindrome/) | Hard |
 | [count-inversions](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-inversions/) | Medium |
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
 | [diameter-of-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/diameter-of-a-binary-tree/) | Medium |
@@ -1105,7 +1107,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1289,6 +1293,7 @@ Contains topicwise list of solved problems.
 | [0min-and-max-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Basic/0min-and-max-in-array/) | Basic |
 | [account-merge](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/account-merge/) | Hard |
 | [capacity-to-ship-packages-within-d-days](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/capacity-to-ship-packages-within-d-days/) | Medium |
+| [closest-palindrome](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/closest-palindrome/) | Hard |
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
 | [count-inversions](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-inversions/) | Medium |
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
@@ -1562,6 +1567,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0set-matrix-zeros](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0set-matrix-zeros/) | Medium |
+| [closest-palindrome](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/closest-palindrome/) | Hard |
 | [meeting-rooms-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/meeting-rooms-ii/) | Medium |
 | [minimize-the-heights-i](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-i/) | Medium |
 | [minimize-the-heights-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-ii/) | Medium |
@@ -1883,6 +1889,7 @@ Contains topicwise list of solved problems.
 ## Mathematics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [closest-palindrome](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/closest-palindrome/) | Hard |
 | [minimize-max-distance-of-adjacent-gas-stations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimize-max-distance-of-adjacent-gas-stations/) | Hard |
 | [polynomial-addition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/polynomial-addition/) | Medium |
 | [prime-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/prime-list/) | Medium |
@@ -2193,6 +2200,7 @@ Contains topicwise list of solved problems.
 | [water-connection-problem](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/water-connection-problem/) | Hard |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
