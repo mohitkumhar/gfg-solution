@@ -1294,6 +1294,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1399,6 +1400,7 @@ Contains topicwise list of solved problems.
 | [count-groups-of-1s-surrounded-by-0s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-groups-of-1s-surrounded-by-0s/) | Hard |
 | [critical-connections-in-graph](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/critical-connections-in-graph/) | Hard |
 | [minimum-cost-to-visit-favorite-colonies](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimum-cost-to-visit-favorite-colonies/) | Hard |
+| [shortest-path-in-directed-acyclic-graph](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/shortest-path-in-directed-acyclic-graph/) | Medium |
 | [shortest-safe-route-in-grid](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/shortest-safe-route-in-grid/) | Medium |
 | [shortest-transformation-length-in-a-word-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/shortest-transformation-length-in-a-word-list/) | Hard |
 | [shortest-transformation-sequences-in-a-word-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/shortest-transformation-sequences-in-a-word-list/) | Hard |
@@ -2212,7 +2214,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [water-connection-problem](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/water-connection-problem/) | Hard |
 
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [shortest-path-in-directed-acyclic-graph](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/shortest-path-in-directed-acyclic-graph/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
