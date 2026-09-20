@@ -139,6 +139,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -180,6 +181,7 @@ Contains topicwise list of solved problems.
 | [closest-palindrome](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/closest-palindrome/) | Hard |
 | [count-inversions](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-inversions/) | Medium |
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
+| [critical-connections-in-graph](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/critical-connections-in-graph/) | Hard |
 | [diameter-of-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/diameter-of-a-binary-tree/) | Medium |
 | [distinct-occurrences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/distinct-occurrences/) | Hard |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
@@ -1110,7 +1112,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1389,6 +1393,7 @@ Contains topicwise list of solved problems.
 | [articulation-point](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/articulation-point/) | Hard |
 | [circle-of-strings](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/circle-of-strings/) | Hard |
 | [count-groups-of-1s-surrounded-by-0s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-groups-of-1s-surrounded-by-0s/) | Hard |
+| [critical-connections-in-graph](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/critical-connections-in-graph/) | Hard |
 | [minimum-cost-to-visit-favorite-colonies](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimum-cost-to-visit-favorite-colonies/) | Hard |
 | [shortest-safe-route-in-grid](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/shortest-safe-route-in-grid/) | Medium |
 | [shortest-transformation-length-in-a-word-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/shortest-transformation-length-in-a-word-list/) | Hard |
@@ -2203,6 +2208,7 @@ Contains topicwise list of solved problems.
 | [water-connection-problem](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/water-connection-problem/) | Hard |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
