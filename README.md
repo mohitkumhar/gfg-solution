@@ -140,6 +140,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -226,6 +227,7 @@ Contains topicwise list of solved problems.
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [sort-alternate-sorted-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-alternate-sorted-linked-list/) | Medium |
 | [sorted-and-rotated-minimum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/sorted-and-rotated-minimum/) | Easy |
+| [strongly-connected-component](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/strongly-connected-component/) | Hard |
 | [subtraction-in-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/subtraction-in-linked-list/) | Hard |
 | [swap-kth-nodes-from-ends](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/swap-kth-nodes-from-ends/) | Medium |
 | [target-sum-combinations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/target-sum-combinations/) | Medium |
@@ -1113,7 +1115,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1398,6 +1402,7 @@ Contains topicwise list of solved problems.
 | [shortest-safe-route-in-grid](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/shortest-safe-route-in-grid/) | Medium |
 | [shortest-transformation-length-in-a-word-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/shortest-transformation-length-in-a-word-list/) | Hard |
 | [shortest-transformation-sequences-in-a-word-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/shortest-transformation-sequences-in-a-word-list/) | Hard |
+| [strongly-connected-component](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/strongly-connected-component/) | Hard |
 | [water-connection-problem](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/water-connection-problem/) | Hard |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
 
@@ -2208,6 +2213,7 @@ Contains topicwise list of solved problems.
 | [water-connection-problem](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/water-connection-problem/) | Hard |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
