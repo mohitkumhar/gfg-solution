@@ -1307,6 +1307,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1335,6 +1336,7 @@ Contains topicwise list of solved problems.
 | [minimize-the-heights-i](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-i/) | Medium |
 | [minimize-the-heights-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-ii/) | Medium |
 | [minimum-days-to-make-m-bouquets](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-days-to-make-m-bouquets/) | Medium |
+| [minimum-multiplications-to-reach-end](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-multiplications-to-reach-end/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
 | [move-all-negative-elements-to-end](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/move-all-negative-elements-to-end/) | Easy |
 | [next-permutation](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/next-permutation/) | Medium |
@@ -1412,6 +1414,7 @@ Contains topicwise list of solved problems.
 | [count-groups-of-1s-surrounded-by-0s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-groups-of-1s-surrounded-by-0s/) | Hard |
 | [critical-connections-in-graph](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/critical-connections-in-graph/) | Hard |
 | [minimum-cost-to-visit-favorite-colonies](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimum-cost-to-visit-favorite-colonies/) | Hard |
+| [minimum-multiplications-to-reach-end](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-multiplications-to-reach-end/) | Medium |
 | [rotten-oranges](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rotten-oranges/) | Medium |
 | [shortest-path-in-directed-acyclic-graph](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/shortest-path-in-directed-acyclic-graph/) | Medium |
 | [shortest-path-in-unweighted-graph](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/shortest-path-in-unweighted-graph/) | Medium |
@@ -2109,6 +2112,7 @@ Contains topicwise list of solved problems.
 | [articulation-point](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/articulation-point/) | Hard |
 | [count-groups-of-1s-surrounded-by-0s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-groups-of-1s-surrounded-by-0s/) | Hard |
 | [minimum-cost-to-visit-favorite-colonies](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimum-cost-to-visit-favorite-colonies/) | Hard |
+| [minimum-multiplications-to-reach-end](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-multiplications-to-reach-end/) | Medium |
 | [shortest-path-in-unweighted-graph](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/shortest-path-in-unweighted-graph/) | Medium |
 | [shortest-transformation-length-in-a-word-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/shortest-transformation-length-in-a-word-list/) | Hard |
 | [shortest-transformation-sequences-in-a-word-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/shortest-transformation-sequences-in-a-word-list/) | Hard |
@@ -2241,6 +2245,7 @@ Contains topicwise list of solved problems.
 | [rotten-oranges](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rotten-oranges/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
