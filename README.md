@@ -1324,6 +1324,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1415,6 +1416,7 @@ Contains topicwise list of solved problems.
 | [account-merge](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/account-merge/) | Hard |
 | [articulation-point](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/articulation-point/) | Hard |
 | [count-groups-of-1s-surrounded-by-0s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-groups-of-1s-surrounded-by-0s/) | Hard |
+| [count-indices-that-escape-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-indices-that-escape-array/) | Medium |
 | [flood-fill-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/flood-fill-algorithm/) | Medium |
 | [minimum-cost-to-visit-favorite-colonies](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimum-cost-to-visit-favorite-colonies/) | Hard |
 | [party-in-town](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/party-in-town/) | Medium |
@@ -1430,6 +1432,7 @@ Contains topicwise list of solved problems.
 | [articulation-point](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/articulation-point/) | Hard |
 | [circle-of-strings](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/circle-of-strings/) | Hard |
 | [count-groups-of-1s-surrounded-by-0s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-groups-of-1s-surrounded-by-0s/) | Hard |
+| [count-indices-that-escape-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-indices-that-escape-array/) | Medium |
 | [critical-connections-in-graph](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/critical-connections-in-graph/) | Hard |
 | [flood-fill-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/flood-fill-algorithm/) | Medium |
 | [minimum-cost-to-visit-favorite-colonies](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimum-cost-to-visit-favorite-colonies/) | Hard |
@@ -1514,6 +1517,7 @@ Contains topicwise list of solved problems.
 | [0max-rectangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0max-rectangle/) | Hard |
 | [0the-painters-partition-problem-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0the-painters-partition-problem-ii/) | Hard |
 | [count-distinct-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Hard/count-distinct-subsequences/) | Hard |
+| [count-indices-that-escape-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-indices-that-escape-array/) | Medium |
 | [count-subsequences-divisible-by-n](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-subsequences-divisible-by-n/) | Medium |
 | [distinct-occurrences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/distinct-occurrences/) | Hard |
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
@@ -1620,6 +1624,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0set-matrix-zeros](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0set-matrix-zeros/) | Medium |
 | [closest-palindrome](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/closest-palindrome/) | Hard |
+| [count-indices-that-escape-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-indices-that-escape-array/) | Medium |
 | [meeting-rooms-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/meeting-rooms-ii/) | Medium |
 | [minimize-the-heights-i](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-i/) | Medium |
 | [minimize-the-heights-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-ii/) | Medium |
@@ -2275,7 +2280,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [000m-coloring-problem](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/000m-coloring-problem/) | Medium |
 
+## Count Indices That Escape The Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [count-indices-that-escape-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-indices-that-escape-array/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
