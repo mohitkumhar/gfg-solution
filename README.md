@@ -150,6 +150,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -563,6 +564,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-sum-all-quadruples](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0004-sum-all-quadruples/) | Medium |
+| [0all-unique-permutations-of-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0all-unique-permutations-of-an-array/) | Medium |
 | [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [0max-rectangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0max-rectangle/) | Hard |
 | [0set-matrix-zeros](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0set-matrix-zeros/) | Medium |
@@ -1164,7 +1166,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1439,6 +1443,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0all-string-permutations-in-sorted-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0all-string-permutations-in-sorted-order/) | Hard |
+| [0all-unique-permutations-of-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0all-unique-permutations-of-an-array/) | Medium |
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
 | [decode-the-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/decode-the-string/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
@@ -1494,6 +1499,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [000k-centers-problem](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/000k-centers-problem/) | Hard |
 | [000m-coloring-problem](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/000m-coloring-problem/) | Medium |
+| [0all-unique-permutations-of-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0all-unique-permutations-of-an-array/) | Medium |
 | [0rat-in-a-maze](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0rat-in-a-maze/) | Medium |
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
 | [decode-the-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/decode-the-string/) | Medium |
@@ -2352,6 +2358,7 @@ Contains topicwise list of solved problems.
 | [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
