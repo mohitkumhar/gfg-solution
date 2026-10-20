@@ -146,6 +146,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -221,6 +222,7 @@ Contains topicwise list of solved problems.
 | [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
 | [pascal-triangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/pascal-triangle/) | Medium |
 | [polynomial-addition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/polynomial-addition/) | Medium |
+| [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
 | [rearrange-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rearrange-a-linked-list/) | Medium |
 | [reorder-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reorder-list/) | Hard |
 | [reverse-alternate-in-link-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/reverse-alternate-in-link-list/) | Medium |
@@ -290,6 +292,7 @@ Contains topicwise list of solved problems.
 | [overlapping-intervals](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/overlapping-intervals/) | Medium |
 | [partition-a-linked-list-around-a-given-value](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/partition-a-linked-list-around-a-given-value/) | Medium |
 | [pascal-triangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/pascal-triangle/) | Medium |
+| [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
 | [rearrange-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rearrange-a-linked-list/) | Medium |
 | [remove-all-duplicates-in-a-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/remove-all-duplicates-in-a-linked-list/) | Medium |
 | [reorder-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reorder-list/) | Hard |
@@ -350,6 +353,7 @@ Contains topicwise list of solved problems.
 | [minimum-days-to-make-m-bouquets](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-days-to-make-m-bouquets/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
 | [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
+| [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
 | [rotate-by-90-degree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rotate-by-90-degree/) | Medium |
 | [rotten-oranges](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rotten-oranges/) | Medium |
 | [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
@@ -525,6 +529,7 @@ Contains topicwise list of solved problems.
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
 | [next-permutation](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/next-permutation/) | Medium |
 | [nodes-at-distance-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/nodes-at-distance-in-binary-tree/) | Hard |
+| [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
 | [rotten-oranges](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rotten-oranges/) | Medium |
 | [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
 | [shortest-transformation-length-in-a-word-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/shortest-transformation-length-in-a-word-list/) | Hard |
@@ -1144,7 +1149,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1370,6 +1377,7 @@ Contains topicwise list of solved problems.
 | [next-permutation](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/next-permutation/) | Medium |
 | [overlapping-intervals](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/overlapping-intervals/) | Medium |
 | [pascal-triangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/pascal-triangle/) | Medium |
+| [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [search-in-rotated-array-2](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/search-in-rotated-array-2/) | Medium |
 | [second-largest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/second-largest/) | Easy |
@@ -1416,6 +1424,7 @@ Contains topicwise list of solved problems.
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [flood-fill-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/flood-fill-algorithm/) | Medium |
 | [pascal-triangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/pascal-triangle/) | Medium |
+| [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
 | [subtraction-in-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/subtraction-in-linked-list/) | Hard |
 | [target-sum-combinations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/target-sum-combinations/) | Medium |
 | [word-break-2](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/word-break-2/) | Hard |
@@ -1466,6 +1475,7 @@ Contains topicwise list of solved problems.
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [largest-with-k-swaps](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-with-k-swaps/) | Medium |
+| [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
 | [solve-the-sudoku](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/solve-the-sudoku/) | Hard |
 | [target-sum-combinations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/target-sum-combinations/) | Medium |
 | [word-break-2](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/word-break-2/) | Hard |
@@ -1495,6 +1505,7 @@ Contains topicwise list of solved problems.
 | [minimum-bracket-reversals-to-balance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-bracket-reversals-to-balance/) | Medium |
 | [number-of-distinct-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/number-of-distinct-subsequences/) | Hard |
 | [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
+| [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
 | [search-pattern-rabin-karp-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/search-pattern-rabin-karp-algorithm/) | Hard |
 | [search-pattern](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Hard/search-pattern/) | Hard |
 | [strings-rotations-of-each-other](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/strings-rotations-of-each-other/) | Medium |
@@ -1965,6 +1976,7 @@ Contains topicwise list of solved problems.
 | [closest-palindrome](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/closest-palindrome/) | Hard |
 | [minimize-max-distance-of-adjacent-gas-stations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimize-max-distance-of-adjacent-gas-stations/) | Hard |
 | [polynomial-addition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/polynomial-addition/) | Medium |
+| [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
 | [prime-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/prime-list/) | Medium |
 
 ## Linked List
@@ -2304,7 +2316,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [largest-with-k-swaps](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-with-k-swaps/) | Medium |
 
+## Find Possible Words Phone Digits
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
