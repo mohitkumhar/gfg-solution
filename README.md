@@ -152,6 +152,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -199,6 +200,7 @@ Contains topicwise list of solved problems.
 | [distinct-occurrences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/distinct-occurrences/) | Hard |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
+| [equal-partition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/equal-partition/) | Medium |
 | [first-and-last-in-sorted](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/first-and-last-in-sorted/) | Medium |
 | [generate-ip-addresses](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/generate-ip-addresses/) | Medium |
 | [gold-mine-problem](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/gold-mine-problem/) | Medium |
@@ -577,6 +579,7 @@ Contains topicwise list of solved problems.
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
 | [distinct-occurrences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/distinct-occurrences/) | Hard |
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
+| [equal-partition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/equal-partition/) | Medium |
 | [first-and-last-in-sorted](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/first-and-last-in-sorted/) | Medium |
 | [flood-fill-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/flood-fill-algorithm/) | Medium |
 | [justified-text](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/justified-text/) | Medium |
@@ -912,6 +915,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [binary-tree-to-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/binary-tree-to-dll/) | Hard |
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
+| [equal-partition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/equal-partition/) | Medium |
 | [intersection-in-y-shaped-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-in-y-shaped-lists/) | Medium |
 | [intersection-point-in-y-shaped-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-point-in-y-shaped-linked-lists/) | Medium |
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
@@ -1021,6 +1025,7 @@ Contains topicwise list of solved problems.
 | [largest-sum-cycle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/largest-sum-cycle/) | Hard |
 
 <!---GeeksForGeeks Companies End-->
+
 
 
 
@@ -1370,6 +1375,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1385,6 +1391,7 @@ Contains topicwise list of solved problems.
 | [count-inversions](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-inversions/) | Medium |
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
 | [count-subarrays-with-given-xor](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-subarrays-with-given-xor/) | Medium |
+| [equal-partition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/equal-partition/) | Medium |
 | [first-and-last-in-sorted](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/first-and-last-in-sorted/) | Medium |
 | [justified-text](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/justified-text/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
@@ -1452,6 +1459,7 @@ Contains topicwise list of solved problems.
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
 | [decode-the-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/decode-the-string/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
+| [equal-partition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/equal-partition/) | Medium |
 | [expression-add-operators](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/expression-add-operators/) | Hard |
 | [flood-fill-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/flood-fill-algorithm/) | Medium |
 | [pascal-triangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/pascal-triangle/) | Medium |
@@ -1512,6 +1520,7 @@ Contains topicwise list of solved problems.
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
 | [decode-the-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/decode-the-string/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
+| [equal-partition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/equal-partition/) | Medium |
 | [expression-add-operators](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/expression-add-operators/) | Hard |
 | [generate-ip-addresses](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/generate-ip-addresses/) | Medium |
 | [hamiltonian-path](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/hamiltonian-path/) | Medium |
@@ -2366,7 +2375,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
 
+## Tug Of War
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [equal-partition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/equal-partition/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
