@@ -1354,6 +1354,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1434,6 +1435,7 @@ Contains topicwise list of solved problems.
 | [0all-string-permutations-in-sorted-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0all-string-permutations-in-sorted-order/) | Hard |
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
+| [expression-add-operators](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/expression-add-operators/) | Hard |
 | [flood-fill-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/flood-fill-algorithm/) | Medium |
 | [pascal-triangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/pascal-triangle/) | Medium |
 | [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
@@ -1487,6 +1489,7 @@ Contains topicwise list of solved problems.
 | [0rat-in-a-maze](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0rat-in-a-maze/) | Medium |
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
+| [expression-add-operators](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/expression-add-operators/) | Hard |
 | [generate-ip-addresses](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/generate-ip-addresses/) | Medium |
 | [largest-sum-cycle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/largest-sum-cycle/) | Hard |
 | [largest-with-k-swaps](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-with-k-swaps/) | Medium |
@@ -1511,6 +1514,7 @@ Contains topicwise list of solved problems.
 | [count-distinct-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Hard/count-distinct-subsequences/) | Hard |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
+| [expression-add-operators](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/expression-add-operators/) | Hard |
 | [generate-ip-addresses](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/generate-ip-addresses/) | Medium |
 | [implement-atoi](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/implement-atoi/) | Medium |
 | [justified-text](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/justified-text/) | Medium |
@@ -2338,6 +2342,7 @@ Contains topicwise list of solved problems.
 | [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
