@@ -145,6 +145,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -200,6 +201,7 @@ Contains topicwise list of solved problems.
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [koko-eating-bananas](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/koko-eating-bananas/) | Medium |
 | [largest-subarray-with-0-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-subarray-with-0-sum/) | Medium |
+| [largest-with-k-swaps](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-with-k-swaps/) | Medium |
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [linked-list-in-zig-zag-fashion](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/linked-list-in-zig-zag-fashion/) | Medium |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
@@ -272,6 +274,7 @@ Contains topicwise list of solved problems.
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [koko-eating-bananas](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/koko-eating-bananas/) | Medium |
 | [largest-subarray-with-0-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-subarray-with-0-sum/) | Medium |
+| [largest-with-k-swaps](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-with-k-swaps/) | Medium |
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
 | [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
@@ -315,6 +318,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0max-rectangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0max-rectangle/) | Hard |
+| [largest-with-k-swaps](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-with-k-swaps/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
 | [reorder-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/reorder-list/) | Hard |
 | [word-search](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-search/) | Medium |
@@ -470,6 +474,7 @@ Contains topicwise list of solved problems.
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [koko-eating-bananas](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/koko-eating-bananas/) | Medium |
+| [largest-with-k-swaps](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-with-k-swaps/) | Medium |
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
 | [nodes-at-distance-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/nodes-at-distance-in-binary-tree/) | Hard |
@@ -562,6 +567,7 @@ Contains topicwise list of solved problems.
 | [flood-fill-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/flood-fill-algorithm/) | Medium |
 | [justified-text](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/justified-text/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
+| [largest-with-k-swaps](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-with-k-swaps/) | Medium |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
 | [longest-repeating-subsequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-repeating-subsequence/) | Medium |
 | [maximum-product-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/maximum-product-subarray/) | Medium |
@@ -726,6 +732,7 @@ Contains topicwise list of solved problems.
 | [intersection-in-y-shaped-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-in-y-shaped-lists/) | Medium |
 | [intersection-point-in-y-shaped-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-point-in-y-shaped-linked-lists/) | Medium |
 | [largest-subarray-with-0-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-subarray-with-0-sum/) | Medium |
+| [largest-with-k-swaps](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-with-k-swaps/) | Medium |
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
 | [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
@@ -1136,7 +1143,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1456,6 +1465,7 @@ Contains topicwise list of solved problems.
 | [0rat-in-a-maze](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0rat-in-a-maze/) | Medium |
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
+| [largest-with-k-swaps](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-with-k-swaps/) | Medium |
 | [solve-the-sudoku](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/solve-the-sudoku/) | Hard |
 | [target-sum-combinations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/target-sum-combinations/) | Medium |
 | [word-break-2](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/word-break-2/) | Hard |
@@ -1478,6 +1488,7 @@ Contains topicwise list of solved problems.
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
 | [implement-atoi](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/implement-atoi/) | Medium |
 | [justified-text](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/justified-text/) | Medium |
+| [largest-with-k-swaps](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-with-k-swaps/) | Medium |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
 | [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
 | [longest-repeating-subsequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-repeating-subsequence/) | Medium |
@@ -2288,7 +2299,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [count-indices-that-escape-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-indices-that-escape-array/) | Medium |
 
+## Makemytrip Interview Experience Set 12
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [largest-with-k-swaps](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-with-k-swaps/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
