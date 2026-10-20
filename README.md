@@ -1360,6 +1360,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1491,6 +1492,7 @@ Contains topicwise list of solved problems.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [000k-centers-problem](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/000k-centers-problem/) | Hard |
 | [000m-coloring-problem](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/000m-coloring-problem/) | Medium |
 | [0rat-in-a-maze](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0rat-in-a-maze/) | Medium |
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
@@ -2350,6 +2352,7 @@ Contains topicwise list of solved problems.
 | [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
