@@ -148,6 +148,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -1007,7 +1008,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [implement-atoi](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/implement-atoi/) | Medium |
 
+## JUSPAY
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [largest-sum-cycle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/largest-sum-cycle/) | Hard |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
 
@@ -1346,6 +1353,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1459,6 +1467,7 @@ Contains topicwise list of solved problems.
 | [count-indices-that-escape-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-indices-that-escape-array/) | Medium |
 | [critical-connections-in-graph](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/critical-connections-in-graph/) | Hard |
 | [flood-fill-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/flood-fill-algorithm/) | Medium |
+| [largest-sum-cycle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/largest-sum-cycle/) | Hard |
 | [minimum-cost-to-visit-favorite-colonies](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimum-cost-to-visit-favorite-colonies/) | Hard |
 | [minimum-multiplications-to-reach-end](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-multiplications-to-reach-end/) | Medium |
 | [rotten-oranges](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rotten-oranges/) | Medium |
@@ -1479,6 +1488,7 @@ Contains topicwise list of solved problems.
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [generate-ip-addresses](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/generate-ip-addresses/) | Medium |
+| [largest-sum-cycle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/largest-sum-cycle/) | Hard |
 | [largest-with-k-swaps](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-with-k-swaps/) | Medium |
 | [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
 | [solve-the-sudoku](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/solve-the-sudoku/) | Hard |
@@ -2328,6 +2338,7 @@ Contains topicwise list of solved problems.
 | [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
