@@ -153,6 +153,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -353,6 +354,7 @@ Contains topicwise list of solved problems.
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
 | [diameter-of-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/diameter-of-a-binary-tree/) | Medium |
 | [flood-fill-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/flood-fill-algorithm/) | Medium |
+| [generate-permutations-of-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/generate-permutations-of-an-array/) | Medium |
 | [koko-eating-bananas](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/koko-eating-bananas/) | Medium |
 | [largest-subarray-with-0-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-subarray-with-0-sum/) | Medium |
 | [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
@@ -1175,7 +1177,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1393,6 +1397,7 @@ Contains topicwise list of solved problems.
 | [count-subarrays-with-given-xor](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-subarrays-with-given-xor/) | Medium |
 | [equal-partition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/equal-partition/) | Medium |
 | [first-and-last-in-sorted](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/first-and-last-in-sorted/) | Medium |
+| [generate-permutations-of-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/generate-permutations-of-an-array/) | Medium |
 | [justified-text](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/justified-text/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [koko-eating-bananas](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/koko-eating-bananas/) | Medium |
@@ -1462,6 +1467,7 @@ Contains topicwise list of solved problems.
 | [equal-partition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/equal-partition/) | Medium |
 | [expression-add-operators](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/expression-add-operators/) | Hard |
 | [flood-fill-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/flood-fill-algorithm/) | Medium |
+| [generate-permutations-of-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/generate-permutations-of-an-array/) | Medium |
 | [pascal-triangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/pascal-triangle/) | Medium |
 | [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
 | [subtraction-in-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/subtraction-in-linked-list/) | Hard |
@@ -1523,6 +1529,7 @@ Contains topicwise list of solved problems.
 | [equal-partition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/equal-partition/) | Medium |
 | [expression-add-operators](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/expression-add-operators/) | Hard |
 | [generate-ip-addresses](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/generate-ip-addresses/) | Medium |
+| [generate-permutations-of-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/generate-permutations-of-an-array/) | Medium |
 | [hamiltonian-path](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/hamiltonian-path/) | Medium |
 | [largest-sum-cycle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/largest-sum-cycle/) | Hard |
 | [largest-with-k-swaps](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-with-k-swaps/) | Medium |
@@ -2381,6 +2388,7 @@ Contains topicwise list of solved problems.
 | [equal-partition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/equal-partition/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
