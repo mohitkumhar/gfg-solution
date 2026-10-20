@@ -149,6 +149,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -268,6 +269,7 @@ Contains topicwise list of solved problems.
 | [clone-list-with-next-and-random](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/clone-list-with-next-and-random/) | Hard |
 | [count-inversions](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-inversions/) | Medium |
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
+| [decode-the-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/decode-the-string/) | Medium |
 | [diameter-of-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/diameter-of-a-binary-tree/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
@@ -608,6 +610,7 @@ Contains topicwise list of solved problems.
 ## Facebook
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [decode-the-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/decode-the-string/) | Medium |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 
 ## TCS
@@ -1160,7 +1163,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1434,6 +1439,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0all-string-permutations-in-sorted-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0all-string-permutations-in-sorted-order/) | Hard |
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
+| [decode-the-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/decode-the-string/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [expression-add-operators](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/expression-add-operators/) | Hard |
 | [flood-fill-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/flood-fill-algorithm/) | Medium |
@@ -1488,6 +1494,7 @@ Contains topicwise list of solved problems.
 | [000m-coloring-problem](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/000m-coloring-problem/) | Medium |
 | [0rat-in-a-maze](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0rat-in-a-maze/) | Medium |
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
+| [decode-the-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/decode-the-string/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [expression-add-operators](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/expression-add-operators/) | Hard |
 | [generate-ip-addresses](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/generate-ip-addresses/) | Medium |
@@ -1684,6 +1691,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0max-rectangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0max-rectangle/) | Hard |
+| [decode-the-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/decode-the-string/) | Medium |
 | [minimum-bracket-reversals-to-balance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-bracket-reversals-to-balance/) | Medium |
 
 ## Matrix
@@ -2342,6 +2350,7 @@ Contains topicwise list of solved problems.
 | [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
