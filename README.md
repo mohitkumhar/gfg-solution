@@ -1380,6 +1380,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1412,6 +1413,7 @@ Contains topicwise list of solved problems.
 | [minimize-the-heights-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-ii/) | Medium |
 | [minimum-days-to-make-m-bouquets](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-days-to-make-m-bouquets/) | Medium |
 | [minimum-multiplications-to-reach-end](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-multiplications-to-reach-end/) | Medium |
+| [minimum-sum-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-sum-subarray/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
 | [move-all-negative-elements-to-end](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/move-all-negative-elements-to-end/) | Easy |
 | [next-permutation](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/next-permutation/) | Medium |
@@ -1610,6 +1612,7 @@ Contains topicwise list of solved problems.
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
 | [longest-repeating-subsequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-repeating-subsequence/) | Medium |
 | [maximum-product-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/maximum-product-subarray/) | Medium |
+| [minimum-sum-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-sum-subarray/) | Medium |
 | [number-of-distinct-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/number-of-distinct-subsequences/) | Hard |
 | [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
 | [word-break-2](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/word-break-2/) | Hard |
@@ -2387,7 +2390,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [equal-partition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/equal-partition/) | Medium |
 
+## Smallest Sum Contiguous Subarray
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [minimum-sum-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-sum-subarray/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
