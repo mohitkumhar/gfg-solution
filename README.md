@@ -1381,6 +1381,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1567,6 +1568,7 @@ Contains topicwise list of solved problems.
 | [minimum-bracket-reversals-to-balance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-bracket-reversals-to-balance/) | Medium |
 | [number-of-distinct-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/number-of-distinct-subsequences/) | Hard |
 | [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
+| [palindrome-with-replacement](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/palindrome-with-replacement/) | Medium |
 | [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
 | [search-pattern-rabin-karp-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/search-pattern-rabin-karp-algorithm/) | Hard |
 | [search-pattern](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Hard/search-pattern/) | Hard |
@@ -2396,6 +2398,7 @@ Contains topicwise list of solved problems.
 | [minimum-sum-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-sum-subarray/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
