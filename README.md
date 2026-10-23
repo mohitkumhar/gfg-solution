@@ -1383,6 +1383,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -2012,6 +2013,7 @@ Contains topicwise list of solved problems.
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [count-pairs-violating-bst-property](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-pairs-violating-bst-property/) | Medium |
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
 | [merge-2-sorted-linked-lists-in-reverse-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-2-sorted-linked-lists-in-reverse-order/) | Medium |
 | [merge-sort-for-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-sort-for-linked-list/) | Medium |
@@ -2307,6 +2309,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0zig-zag-tree-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0zig-zag-tree-traversal/) | Medium |
+| [count-pairs-violating-bst-property](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-pairs-violating-bst-property/) | Medium |
 
 ## Flipkart Interview Experience Set 24
 | Problem Name | Difficulty |
@@ -2398,7 +2401,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [minimum-sum-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-sum-subarray/) | Medium |
 
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [count-pairs-violating-bst-property](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-pairs-violating-bst-property/) | Medium |
+
+## Count Of Pairs Violating Bst Property
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [count-pairs-violating-bst-property](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-pairs-violating-bst-property/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
