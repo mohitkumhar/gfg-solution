@@ -1384,6 +1384,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1749,6 +1750,7 @@ Contains topicwise list of solved problems.
 | [rotten-oranges](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rotten-oranges/) | Medium |
 | [solve-the-sudoku](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/solve-the-sudoku/) | Hard |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
+| [trace-path](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/trace-path/) | Easy |
 
 ## Heap
 | Problem Name | Difficulty |
@@ -2411,7 +2413,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [count-pairs-violating-bst-property](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-pairs-violating-bst-property/) | Medium |
 
+## Trace Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [trace-path](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/trace-path/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
