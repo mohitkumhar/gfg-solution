@@ -1385,6 +1385,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1554,6 +1555,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0all-string-permutations-in-sorted-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0all-string-permutations-in-sorted-order/) | Hard |
+| [0sum-of-beauty-of-all-substrings](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/0sum-of-beauty-of-all-substrings/) | Easy |
 | [alien-dictionary](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/alien-dictionary/) | Hard |
 | [circle-of-strings](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/circle-of-strings/) | Hard |
 | [convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence/) | Easy |
@@ -2418,7 +2420,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [trace-path](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/trace-path/) | Easy |
 
+## Sum Of Beauty Of All Substrings
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0sum-of-beauty-of-all-substrings](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/0sum-of-beauty-of-all-substrings/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
