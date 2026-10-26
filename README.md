@@ -1387,6 +1387,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -2433,6 +2434,7 @@ Contains topicwise list of solved problems.
 | [minimize-max-min-diff-with-subarray-removal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-max-min-diff-with-subarray-removal/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
