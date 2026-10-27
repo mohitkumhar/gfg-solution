@@ -1388,6 +1388,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1622,6 +1623,7 @@ Contains topicwise list of solved problems.
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
 | [longest-repeating-subsequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-repeating-subsequence/) | Medium |
 | [maximum-product-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/maximum-product-subarray/) | Medium |
+| [maximum-weight-transformation-of-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/maximum-weight-transformation-of-string/) | Medium |
 | [minimum-sum-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-sum-subarray/) | Medium |
 | [number-of-distinct-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/number-of-distinct-subsequences/) | Hard |
 | [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
@@ -2434,6 +2436,7 @@ Contains topicwise list of solved problems.
 | [minimize-max-min-diff-with-subarray-removal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-max-min-diff-with-subarray-removal/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
