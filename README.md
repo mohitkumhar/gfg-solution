@@ -154,6 +154,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -228,6 +229,7 @@ Contains topicwise list of solved problems.
 | [modify-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/modify-linked-list/) | Medium |
 | [next-permutation](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/next-permutation/) | Medium |
 | [nodes-at-distance-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/nodes-at-distance-in-binary-tree/) | Hard |
+| [optimal-file-merge](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/optimal-file-merge/) | Medium |
 | [overlapping-intervals](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/overlapping-intervals/) | Medium |
 | [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
 | [pascal-triangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/pascal-triangle/) | Medium |
@@ -1178,7 +1180,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1764,6 +1768,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0kth-smallest-element-in-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest-element-in-a-matrix/) | Medium |
 | [meeting-rooms-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/meeting-rooms-ii/) | Medium |
+| [optimal-file-merge](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/optimal-file-merge/) | Medium |
 
 ## Binary Search
 | Problem Name | Difficulty |
@@ -2435,7 +2440,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [minimize-max-min-diff-with-subarray-removal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-max-min-diff-with-subarray-removal/) | Medium |
 
+## Optimal File Merge Patterns
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [optimal-file-merge](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/optimal-file-merge/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
