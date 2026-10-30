@@ -1393,6 +1393,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1869,6 +1870,7 @@ Contains topicwise list of solved problems.
 | [longest-subarray-with-sum-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-subarray-with-sum-k/) | Medium |
 | [overlapping-intervals](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/overlapping-intervals/) | Medium |
 | [subarrays-with-sum-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/subarrays-with-sum-k/) | Medium |
+| [subsets-with-mex-in-range](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/subsets-with-mex-in-range/) | Hard |
 | [triplet-sum-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/triplet-sum-in-array/) | Medium |
 | [union-of-two-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-two-linked-lists/) | Medium |
 
@@ -2061,6 +2063,7 @@ Contains topicwise list of solved problems.
 | [polynomial-addition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/polynomial-addition/) | Medium |
 | [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
 | [prime-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/prime-list/) | Medium |
+| [subsets-with-mex-in-range](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/subsets-with-mex-in-range/) | Hard |
 
 ## Linked List
 | Problem Name | Difficulty |
@@ -2445,7 +2448,23 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [optimal-file-merge](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/optimal-file-merge/) | Medium |
 
+## subset
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [subsets-with-mex-in-range](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/subsets-with-mex-in-range/) | Hard |
+
+## Modular Arithmetic
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [subsets-with-mex-in-range](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/subsets-with-mex-in-range/) | Hard |
+
+## Crazy Subsets
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [subsets-with-mex-in-range](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/subsets-with-mex-in-range/) | Hard |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
