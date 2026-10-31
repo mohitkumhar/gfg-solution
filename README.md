@@ -1398,6 +1398,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1424,6 +1425,7 @@ Contains topicwise list of solved problems.
 | [longest-subarray-with-sum-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-subarray-with-sum-k/) | Medium |
 | [maximum-packages-within-time](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/maximum-packages-within-time/) | Easy |
 | [maximum-product-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/maximum-product-subarray/) | Medium |
+| [maximum-subarray-sum-with-one-square-allowed](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/maximum-subarray-sum-with-one-square-allowed/) | Medium |
 | [median-of-2-sorted-arrays-of-different-sizes](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/median-of-2-sorted-arrays-of-different-sizes/) | Hard |
 | [meeting-rooms-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/meeting-rooms-ii/) | Medium |
 | [minimize-max-distance-of-adjacent-gas-stations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimize-max-distance-of-adjacent-gas-stations/) | Hard |
@@ -2475,6 +2477,7 @@ Contains topicwise list of solved problems.
 | [maximum-packages-within-time](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/maximum-packages-within-time/) | Easy |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
