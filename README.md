@@ -155,6 +155,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -622,6 +623,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [decode-the-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/decode-the-string/) | Medium |
+| [maximum-packages-within-time](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/maximum-packages-within-time/) | Easy |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 
 ## TCS
@@ -1181,7 +1183,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1418,6 +1422,7 @@ Contains topicwise list of solved problems.
 | [largest-subarray-with-0-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-subarray-with-0-sum/) | Medium |
 | [largest-with-same-parity-adjacent-swaps](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-with-same-parity-adjacent-swaps/) | Medium |
 | [longest-subarray-with-sum-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-subarray-with-sum-k/) | Medium |
+| [maximum-packages-within-time](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/maximum-packages-within-time/) | Easy |
 | [maximum-product-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/maximum-product-subarray/) | Medium |
 | [median-of-2-sorted-arrays-of-different-sizes](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/median-of-2-sorted-arrays-of-different-sizes/) | Hard |
 | [meeting-rooms-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/meeting-rooms-ii/) | Medium |
@@ -1698,6 +1703,7 @@ Contains topicwise list of solved problems.
 | [0004-sum-all-quadruples](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0004-sum-all-quadruples/) | Medium |
 | [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
+| [maximum-packages-within-time](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/maximum-packages-within-time/) | Easy |
 | [meeting-rooms-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/meeting-rooms-ii/) | Medium |
 | [minimize-the-heights-i](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-i/) | Medium |
 | [triplet-sum-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/triplet-sum-in-array/) | Medium |
@@ -2463,7 +2469,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [subsets-with-mex-in-range](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/subsets-with-mex-in-range/) | Hard |
 
+## sliding-window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [maximum-packages-within-time](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/maximum-packages-within-time/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
