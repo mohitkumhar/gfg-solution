@@ -1402,6 +1402,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -2222,6 +2223,7 @@ Contains topicwise list of solved problems.
 | [0zig-zag-tree-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0zig-zag-tree-traversal/) | Medium |
 | [binary-tree-to-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/binary-tree-to-dll/) | Hard |
 | [bottom-view-of-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/bottom-view-of-binary-tree/) | Medium |
+| [count-tree-paths-with-limited-max-edge-weight](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-tree-paths-with-limited-max-edge-weight/) | Hard |
 | [diameter-of-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/diameter-of-a-binary-tree/) | Medium |
 | [minimum-cost-to-visit-favorite-colonies](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimum-cost-to-visit-favorite-colonies/) | Hard |
 | [nodes-at-distance-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/nodes-at-distance-in-binary-tree/) | Hard |
@@ -2301,6 +2303,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [account-merge](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/account-merge/) | Hard |
 | [count-groups-of-1s-surrounded-by-0s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-groups-of-1s-surrounded-by-0s/) | Hard |
+| [count-tree-paths-with-limited-max-edge-weight](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-tree-paths-with-limited-max-edge-weight/) | Hard |
 | [possible-paths-in-a-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/possible-paths-in-a-tree/) | Hard |
 
 ## AVL Tree
@@ -2479,7 +2482,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [maximum-packages-within-time](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/maximum-packages-within-time/) | Easy |
 
+## Possible Paths In A Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [count-tree-paths-with-limited-max-edge-weight](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-tree-paths-with-limited-max-edge-weight/) | Hard |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
