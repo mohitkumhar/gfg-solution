@@ -157,6 +157,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -188,6 +189,7 @@ Contains topicwise list of solved problems.
 | [0min-distance-between-two-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0min-distance-between-two-in-binary-tree/) | Hard |
 | [0rat-in-a-maze](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0rat-in-a-maze/) | Medium |
 | [0set-matrix-zeros](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0set-matrix-zeros/) | Medium |
+| [0xor-of-all-subarray-xors](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0xor-of-all-subarray-xors/) | Medium |
 | [0zig-zag-tree-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0zig-zag-tree-traversal/) | Medium |
 | [absolute-list-sorting](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/absolute-list-sorting/) | Medium |
 | [alien-dictionary](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/alien-dictionary/) | Hard |
@@ -354,6 +356,7 @@ Contains topicwise list of solved problems.
 | [0min-and-max-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Basic/0min-and-max-in-array/) | Basic |
 | [0set-matrix-zeros](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0set-matrix-zeros/) | Medium |
 | [0top-view-of-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0top-view-of-binary-tree/) | Medium |
+| [0xor-of-all-subarray-xors](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0xor-of-all-subarray-xors/) | Medium |
 | [allocate-minimum-pages](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/allocate-minimum-pages/) | Medium |
 | [combination-sum-without-repetition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/combination-sum-without-repetition/) | Medium |
 | [diameter-of-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/diameter-of-a-binary-tree/) | Medium |
@@ -1186,7 +1189,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1838,6 +1843,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0all-subsequences-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/0all-subsequences-of-a-string/) | Medium |
+| [0xor-of-all-subarray-xors](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0xor-of-all-subarray-xors/) | Medium |
 | [count-subarrays-with-given-xor](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-subarrays-with-given-xor/) | Medium |
 | [missing-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/missing-in-array/) | Easy |
 
@@ -2070,6 +2076,7 @@ Contains topicwise list of solved problems.
 ## Mathematics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0xor-of-all-subarray-xors](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0xor-of-all-subarray-xors/) | Medium |
 | [closest-palindrome](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/closest-palindrome/) | Hard |
 | [minimize-max-distance-of-adjacent-gas-stations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimize-max-distance-of-adjacent-gas-stations/) | Hard |
 | [polynomial-addition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/polynomial-addition/) | Medium |
@@ -2487,7 +2494,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [count-tree-paths-with-limited-max-edge-weight](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-tree-paths-with-limited-max-edge-weight/) | Hard |
 
+## Xor Subarray Xors
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0xor-of-all-subarray-xors](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0xor-of-all-subarray-xors/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
