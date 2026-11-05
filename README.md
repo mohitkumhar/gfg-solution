@@ -1408,6 +1408,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1596,6 +1597,7 @@ Contains topicwise list of solved problems.
 | [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
 | [longest-repeating-subsequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-repeating-subsequence/) | Medium |
 | [minimum-bracket-reversals-to-balance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-bracket-reversals-to-balance/) | Medium |
+| [minimum-days](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-days/) | Medium |
 | [number-of-distinct-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/number-of-distinct-subsequences/) | Hard |
 | [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
 | [palindrome-with-replacement](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/palindrome-with-replacement/) | Medium |
@@ -1957,6 +1959,7 @@ Contains topicwise list of solved problems.
 ## permutation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [minimum-days](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-days/) | Medium |
 | [next-permutation](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/next-permutation/) | Medium |
 
 ## constructive algo
@@ -2499,7 +2502,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0xor-of-all-subarray-xors](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0xor-of-all-subarray-xors/) | Medium |
 
+## Minimum Days To Achieve The String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [minimum-days](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-days/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
