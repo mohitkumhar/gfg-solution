@@ -1409,6 +1409,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -2080,6 +2081,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0xor-of-all-subarray-xors](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0xor-of-all-subarray-xors/) | Medium |
+| [balanced-binary-tree-counter](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/balanced-binary-tree-counter/) | Easy |
 | [closest-palindrome](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/closest-palindrome/) | Hard |
 | [minimize-max-distance-of-adjacent-gas-stations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimize-max-distance-of-adjacent-gas-stations/) | Hard |
 | [polynomial-addition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/polynomial-addition/) | Medium |
@@ -2231,6 +2233,7 @@ Contains topicwise list of solved problems.
 | [0min-distance-between-two-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0min-distance-between-two-in-binary-tree/) | Hard |
 | [0top-view-of-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0top-view-of-binary-tree/) | Medium |
 | [0zig-zag-tree-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0zig-zag-tree-traversal/) | Medium |
+| [balanced-binary-tree-counter](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/balanced-binary-tree-counter/) | Easy |
 | [binary-tree-to-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/binary-tree-to-dll/) | Hard |
 | [bottom-view-of-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/bottom-view-of-binary-tree/) | Medium |
 | [count-tree-paths-with-limited-max-edge-weight](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-tree-paths-with-limited-max-edge-weight/) | Hard |
@@ -2507,7 +2510,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [minimum-days](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-days/) | Medium |
 
+## Count Balanced Binary Trees Height H
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [balanced-binary-tree-counter](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/balanced-binary-tree-counter/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
