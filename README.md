@@ -1410,6 +1410,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1591,6 +1592,7 @@ Contains topicwise list of solved problems.
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
 | [expression-add-operators](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/expression-add-operators/) | Hard |
 | [generate-ip-addresses](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/generate-ip-addresses/) | Medium |
+| [generate-usernames](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/generate-usernames/) | Easy |
 | [implement-atoi](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/implement-atoi/) | Medium |
 | [justified-text](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/justified-text/) | Medium |
 | [largest-with-k-swaps](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-with-k-swaps/) | Medium |
@@ -2516,6 +2518,7 @@ Contains topicwise list of solved problems.
 | [balanced-binary-tree-counter](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/balanced-binary-tree-counter/) | Easy |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
