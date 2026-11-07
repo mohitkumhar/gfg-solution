@@ -1411,6 +1411,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1505,6 +1506,7 @@ Contains topicwise list of solved problems.
 | [generate-permutations-of-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/generate-permutations-of-an-array/) | Medium |
 | [pascal-triangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/pascal-triangle/) | Medium |
 | [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
+| [strings-with-more-distinct-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/strings-with-more-distinct-subsequences/) | Hard |
 | [subtraction-in-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/subtraction-in-linked-list/) | Hard |
 | [target-sum-combinations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/target-sum-combinations/) | Medium |
 | [word-break-2](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/word-break-2/) | Hard |
@@ -1608,6 +1610,7 @@ Contains topicwise list of solved problems.
 | [search-pattern-rabin-karp-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/search-pattern-rabin-karp-algorithm/) | Hard |
 | [search-pattern](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Hard/search-pattern/) | Hard |
 | [strings-rotations-of-each-other](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/strings-rotations-of-each-other/) | Medium |
+| [strings-with-more-distinct-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/strings-with-more-distinct-subsequences/) | Hard |
 
 ## Lexicographic Permutations Of String
 | Problem Name | Difficulty |
@@ -1653,6 +1656,7 @@ Contains topicwise list of solved problems.
 | [minimum-sum-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-sum-subarray/) | Medium |
 | [number-of-distinct-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/number-of-distinct-subsequences/) | Hard |
 | [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
+| [strings-with-more-distinct-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/strings-with-more-distinct-subsequences/) | Hard |
 | [word-break-2](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/word-break-2/) | Hard |
 | [word-break](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-break/) | Medium |
 
@@ -2517,7 +2521,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [balanced-binary-tree-counter](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/balanced-binary-tree-counter/) | Easy |
 
+## Potd Solutions 15 Nov 23 Better String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [strings-with-more-distinct-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/strings-with-more-distinct-subsequences/) | Hard |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
