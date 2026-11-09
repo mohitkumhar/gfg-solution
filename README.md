@@ -158,6 +158,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -199,6 +200,7 @@ Contains topicwise list of solved problems.
 | [capacity-to-ship-packages-within-d-days](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/capacity-to-ship-packages-within-d-days/) | Medium |
 | [clone-list-with-next-and-random](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/clone-list-with-next-and-random/) | Hard |
 | [closest-palindrome](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/closest-palindrome/) | Hard |
+| [count-group-occurrences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/count-group-occurrences/) | Easy |
 | [count-inversions](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-inversions/) | Medium |
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
 | [critical-connections-in-graph](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/critical-connections-in-graph/) | Hard |
@@ -385,6 +387,7 @@ Contains topicwise list of solved problems.
 ## Zoho
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [count-group-occurrences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/count-group-occurrences/) | Easy |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
@@ -1190,7 +1193,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1591,6 +1596,7 @@ Contains topicwise list of solved problems.
 | [circle-of-strings](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/circle-of-strings/) | Hard |
 | [convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence/) | Easy |
 | [count-distinct-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Hard/count-distinct-subsequences/) | Hard |
+| [count-group-occurrences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/count-group-occurrences/) | Easy |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
 | [expression-add-operators](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/expression-add-operators/) | Hard |
@@ -2528,6 +2534,7 @@ Contains topicwise list of solved problems.
 | [strings-with-more-distinct-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/strings-with-more-distinct-subsequences/) | Hard |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
