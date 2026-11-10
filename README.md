@@ -160,6 +160,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -184,6 +185,7 @@ Contains topicwise list of solved problems.
 | [0add-1-to-a-linked-list-number](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-1-to-a-linked-list-number/) | Medium |
 | [0add-number-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0add-number-linked-lists/) | Medium |
 | [0all-string-permutations-in-sorted-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0all-string-permutations-in-sorted-order/) | Hard |
+| [0any-duplicate-within-k-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/0any-duplicate-within-k-distance/) | Easy |
 | [0avl-tree-deletion](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0avl-tree-deletion/) | Hard |
 | [0kth-smallest-element-in-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest-element-in-a-matrix/) | Medium |
 | [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
@@ -1196,7 +1198,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1430,6 +1434,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [00at-least-k-occurrences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/00at-least-k-occurrences/) | Easy |
+| [0any-duplicate-within-k-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/0any-duplicate-within-k-distance/) | Easy |
 | [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [0min-and-max-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Basic/0min-and-max-in-array/) | Basic |
 | [account-merge](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/account-merge/) | Hard |
@@ -1905,6 +1910,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0004-sum-all-quadruples](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0004-sum-all-quadruples/) | Medium |
 | [00at-least-k-occurrences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/00at-least-k-occurrences/) | Easy |
+| [0any-duplicate-within-k-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/0any-duplicate-within-k-distance/) | Easy |
 | [account-merge](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/account-merge/) | Hard |
 | [convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence/) | Easy |
 | [largest-subarray-with-0-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-subarray-with-0-sum/) | Medium |
@@ -2541,6 +2547,7 @@ Contains topicwise list of solved problems.
 | [strings-with-more-distinct-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/strings-with-more-distinct-subsequences/) | Hard |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
