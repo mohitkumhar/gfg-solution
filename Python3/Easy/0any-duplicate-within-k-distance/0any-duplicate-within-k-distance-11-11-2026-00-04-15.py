@@ -1,0 +1,16 @@
+class Solution:
+    def checkWithinK(self, arr: list[int], k: int) -> bool:
+        # code here
+
+        seen = set()
+
+        for i in range(len(arr)):
+            if arr[i] in seen:
+                return True
+
+            seen.add(arr[i])
+
+            if len(seen) > k:
+                seen.remove(arr[i - k])
+
+        return False
