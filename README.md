@@ -162,6 +162,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -205,6 +206,7 @@ Contains topicwise list of solved problems.
 | [clone-list-with-next-and-random](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/clone-list-with-next-and-random/) | Hard |
 | [closest-in-bst](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/closest-in-bst/) | Medium |
 | [closest-palindrome](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/closest-palindrome/) | Hard |
+| [common-nodes-in-two-bsts](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/common-nodes-in-two-bsts/) | Medium |
 | [count-group-occurrences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/count-group-occurrences/) | Easy |
 | [count-inversions](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-inversions/) | Medium |
 | [count-reverse-pairs](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-reverse-pairs/) | Hard |
@@ -1203,7 +1205,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -2481,6 +2485,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [closest-in-bst](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/closest-in-bst/) | Medium |
+| [common-nodes-in-two-bsts](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/common-nodes-in-two-bsts/) | Medium |
 | [count-pairs-violating-bst-property](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-pairs-violating-bst-property/) | Medium |
 
 ## Count Of Pairs Violating Bst Property
@@ -2564,6 +2569,7 @@ Contains topicwise list of solved problems.
 | [closest-in-bst](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/closest-in-bst/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
