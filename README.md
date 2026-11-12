@@ -161,6 +161,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -202,6 +203,7 @@ Contains topicwise list of solved problems.
 | [bottom-view-of-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/bottom-view-of-binary-tree/) | Medium |
 | [capacity-to-ship-packages-within-d-days](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/capacity-to-ship-packages-within-d-days/) | Medium |
 | [clone-list-with-next-and-random](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/clone-list-with-next-and-random/) | Hard |
+| [closest-in-bst](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/closest-in-bst/) | Medium |
 | [closest-palindrome](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/closest-palindrome/) | Hard |
 | [count-group-occurrences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/count-group-occurrences/) | Easy |
 | [count-inversions](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-inversions/) | Medium |
@@ -515,6 +517,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0all-string-permutations-in-sorted-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0all-string-permutations-in-sorted-order/) | Hard |
+| [closest-in-bst](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/closest-in-bst/) | Medium |
 | [distinct-permutations-of-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/distinct-permutations-of-a-string/) | Medium |
 | [intersection-in-y-shaped-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-in-y-shaped-lists/) | Medium |
 | [intersection-point-in-y-shaped-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-point-in-y-shaped-linked-lists/) | Medium |
@@ -1199,7 +1202,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -2262,6 +2267,7 @@ Contains topicwise list of solved problems.
 | [balanced-binary-tree-counter](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/balanced-binary-tree-counter/) | Easy |
 | [binary-tree-to-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/binary-tree-to-dll/) | Hard |
 | [bottom-view-of-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/bottom-view-of-binary-tree/) | Medium |
+| [closest-in-bst](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/closest-in-bst/) | Medium |
 | [count-tree-paths-with-limited-max-edge-weight](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-tree-paths-with-limited-max-edge-weight/) | Hard |
 | [diameter-of-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/diameter-of-a-binary-tree/) | Medium |
 | [minimum-cost-to-visit-favorite-colonies](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimum-cost-to-visit-favorite-colonies/) | Hard |
@@ -2474,6 +2480,7 @@ Contains topicwise list of solved problems.
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [closest-in-bst](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/closest-in-bst/) | Medium |
 | [count-pairs-violating-bst-property](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-pairs-violating-bst-property/) | Medium |
 
 ## Count Of Pairs Violating Bst Property
@@ -2546,7 +2553,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [strings-with-more-distinct-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/strings-with-more-distinct-subsequences/) | Hard |
 
+## Maq Software Interview Experience Set 7
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [closest-in-bst](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/closest-in-bst/) | Medium |
+
+## Find Closest Element Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [closest-in-bst](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/closest-in-bst/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
