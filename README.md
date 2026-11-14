@@ -1436,6 +1436,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1780,6 +1781,7 @@ Contains topicwise list of solved problems.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0max-equal-sum-in-3-stacks](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0max-equal-sum-in-3-stacks/) | Medium |
 | [0set-matrix-zeros](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0set-matrix-zeros/) | Medium |
 | [closest-palindrome](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/closest-palindrome/) | Hard |
 | [count-indices-that-escape-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-indices-that-escape-array/) | Medium |
@@ -1796,6 +1798,7 @@ Contains topicwise list of solved problems.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0max-equal-sum-in-3-stacks](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0max-equal-sum-in-3-stacks/) | Medium |
 | [0max-rectangle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0max-rectangle/) | Hard |
 | [decode-the-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/decode-the-string/) | Medium |
 | [minimum-bracket-reversals-to-balance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimum-bracket-reversals-to-balance/) | Medium |
@@ -2569,6 +2572,7 @@ Contains topicwise list of solved problems.
 | [closest-in-bst](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/closest-in-bst/) | Medium |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
