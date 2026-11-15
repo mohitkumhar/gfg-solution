@@ -1437,6 +1437,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1612,6 +1613,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0all-string-permutations-in-sorted-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0all-string-permutations-in-sorted-order/) | Hard |
+| [0sum-of-all-digit-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/0sum-of-all-digit-subsequences/) | Easy |
 | [0sum-of-beauty-of-all-substrings](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/0sum-of-beauty-of-all-substrings/) | Easy |
 | [alien-dictionary](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/alien-dictionary/) | Hard |
 | [circle-of-strings](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/circle-of-strings/) | Hard |
@@ -2571,7 +2573,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [closest-in-bst](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/closest-in-bst/) | Medium |
 
+## Sum Of All Subsequences Of A Number
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0sum-of-all-digit-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/0sum-of-all-digit-subsequences/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
