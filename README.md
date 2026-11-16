@@ -1438,12 +1438,14 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
 ## Arrays
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [000k-th-missing-in-natural-numbers](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/000k-th-missing-in-natural-numbers/) | Medium |
 | [00at-least-k-occurrences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/00at-least-k-occurrences/) | Easy |
 | [0any-duplicate-within-k-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/0any-duplicate-within-k-distance/) | Easy |
 | [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
@@ -1714,6 +1716,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-sum-all-quadruples](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0004-sum-all-quadruples/) | Medium |
+| [000k-th-missing-in-natural-numbers](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/000k-th-missing-in-natural-numbers/) | Medium |
 | [0kth-smallest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0kth-smallest/) | Medium |
 | [alien-dictionary](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/alien-dictionary/) | Hard |
 | [count-inversions](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-inversions/) | Medium |
@@ -2579,6 +2582,7 @@ Contains topicwise list of solved problems.
 | [0sum-of-all-digit-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/0sum-of-all-digit-subsequences/) | Easy |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
