@@ -1439,6 +1439,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1639,6 +1640,7 @@ Contains topicwise list of solved problems.
 | [palindrome-substrings-count](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/palindrome-substrings-count/) | Hard |
 | [palindrome-with-replacement](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/palindrome-with-replacement/) | Medium |
 | [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
+| [repeated-pattern-check](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/repeated-pattern-check/) | Easy |
 | [search-pattern-rabin-karp-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/search-pattern-rabin-karp-algorithm/) | Hard |
 | [search-pattern](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Hard/search-pattern/) | Hard |
 | [strings-rotations-of-each-other](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/strings-rotations-of-each-other/) | Medium |
@@ -2581,7 +2583,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0sum-of-all-digit-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/0sum-of-all-digit-subsequences/) | Easy |
 
+## Check String Follows Anbn Pattern Not
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [repeated-pattern-check](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/repeated-pattern-check/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
