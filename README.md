@@ -163,6 +163,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -332,6 +333,7 @@ Contains topicwise list of solved problems.
 | [shortest-transformation-sequences-in-a-word-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/shortest-transformation-sequences-in-a-word-list/) | Hard |
 | [solve-the-sudoku](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/solve-the-sudoku/) | Hard |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
+| [sort-in-specific-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-in-specific-order/) | Medium |
 | [sort-singly-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-singly-linked-list/) | Medium |
 | [sorted-and-rotated-minimum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/sorted-and-rotated-minimum/) | Easy |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
@@ -400,6 +402,7 @@ Contains topicwise list of solved problems.
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
 | [overlapping-intervals](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/overlapping-intervals/) | Medium |
 | [solve-the-sudoku](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/solve-the-sudoku/) | Hard |
+| [sort-in-specific-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-in-specific-order/) | Medium |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
 | [word-break](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-break/) | Medium |
 
@@ -1206,7 +1209,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1490,6 +1495,7 @@ Contains topicwise list of solved problems.
 | [second-largest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/second-largest/) | Easy |
 | [smallest-divisor](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/smallest-divisor/) | Medium |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
+| [sort-in-specific-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-in-specific-order/) | Medium |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
 | [split-array-largest-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/split-array-largest-sum/) | Hard |
 | [triplet-sum-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/triplet-sum-in-array/) | Medium |
@@ -1729,6 +1735,7 @@ Contains topicwise list of solved problems.
 | [overlapping-intervals](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/overlapping-intervals/) | Medium |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [sort-alternate-sorted-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-alternate-sorted-linked-list/) | Medium |
+| [sort-in-specific-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-in-specific-order/) | Medium |
 | [triplet-sum-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/triplet-sum-in-array/) | Medium |
 | [union-of-two-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/union-of-two-linked-lists/) | Medium |
 
@@ -2588,7 +2595,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [repeated-pattern-check](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/repeated-pattern-check/) | Easy |
 
+## Numbers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [sort-in-specific-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-in-specific-order/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
