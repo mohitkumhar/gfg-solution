@@ -165,6 +165,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -260,6 +261,7 @@ Contains topicwise list of solved problems.
 | [shortest-transformation-length-in-a-word-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/shortest-transformation-length-in-a-word-list/) | Hard |
 | [shortest-transformation-sequences-in-a-word-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/shortest-transformation-sequences-in-a-word-list/) | Hard |
 | [single-among-doubles-in-a-sorted](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/single-among-doubles-in-a-sorted/) | Medium |
+| [smallest-subarray-sum-greater-than-x](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/smallest-subarray-sum-greater-than-x/) | Easy |
 | [solve-the-sudoku](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/solve-the-sudoku/) | Hard |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [sort-alternate-sorted-linked-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-alternate-sorted-linked-list/) | Medium |
@@ -429,6 +431,7 @@ Contains topicwise list of solved problems.
 | [nodes-at-distance-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/nodes-at-distance-in-binary-tree/) | Hard |
 | [rotten-oranges](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/rotten-oranges/) | Medium |
 | [serialize-and-deserialize-a-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/serialize-and-deserialize-a-binary-tree/) | Hard |
+| [smallest-subarray-sum-greater-than-x](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/smallest-subarray-sum-greater-than-x/) | Easy |
 | [tree-boundary-traversal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/tree-boundary-traversal/) | Medium |
 | [triplet-sum-in-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/triplet-sum-in-array/) | Medium |
 
@@ -619,6 +622,7 @@ Contains topicwise list of solved problems.
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
 | [shortest-transformation-length-in-a-word-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/shortest-transformation-length-in-a-word-list/) | Hard |
 | [shortest-transformation-sequences-in-a-word-list](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/shortest-transformation-sequences-in-a-word-list/) | Hard |
+| [smallest-subarray-sum-greater-than-x](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/smallest-subarray-sum-greater-than-x/) | Easy |
 | [split-array-largest-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/split-array-largest-sum/) | Hard |
 | [word-break-2](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/word-break-2/) | Hard |
 | [word-break](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/word-break/) | Medium |
@@ -644,6 +648,7 @@ Contains topicwise list of solved problems.
 | [decode-the-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/decode-the-string/) | Medium |
 | [maximum-packages-within-time](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/maximum-packages-within-time/) | Easy |
 | [reverse-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Easy/reverse-an-array/) | Easy |
+| [smallest-subarray-sum-greater-than-x](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/smallest-subarray-sum-greater-than-x/) | Easy |
 
 ## TCS
 | Problem Name | Difficulty |
@@ -946,6 +951,7 @@ Contains topicwise list of solved problems.
 | [intersection-point-in-y-shaped-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-point-in-y-shaped-linked-lists/) | Medium |
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [nodes-at-distance-in-binary-tree](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/nodes-at-distance-in-binary-tree/) | Hard |
+| [smallest-subarray-sum-greater-than-x](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/smallest-subarray-sum-greater-than-x/) | Easy |
 
 ## Expedia
 | Problem Name | Difficulty |
@@ -1051,6 +1057,7 @@ Contains topicwise list of solved problems.
 | [largest-sum-cycle](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/largest-sum-cycle/) | Hard |
 
 <!---GeeksForGeeks Companies End-->
+
 
 
 
@@ -1449,6 +1456,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1498,6 +1506,7 @@ Contains topicwise list of solved problems.
 | [search-in-rotated-array-2](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/search-in-rotated-array-2/) | Medium |
 | [second-largest](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/second-largest/) | Easy |
 | [smallest-divisor](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/smallest-divisor/) | Medium |
+| [smallest-subarray-sum-greater-than-x](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/smallest-subarray-sum-greater-than-x/) | Easy |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [sort-in-specific-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-in-specific-order/) | Medium |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
@@ -2554,6 +2563,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [maximum-packages-within-time](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/maximum-packages-within-time/) | Easy |
+| [smallest-subarray-sum-greater-than-x](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/smallest-subarray-sum-greater-than-x/) | Easy |
 
 ## Possible Paths In A Tree
 | Problem Name | Difficulty |
@@ -2611,6 +2621,7 @@ Contains topicwise list of solved problems.
 | [0min-flips-for-alternate](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/0min-flips-for-alternate/) | Easy |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
