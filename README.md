@@ -164,6 +164,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -937,6 +938,7 @@ Contains topicwise list of solved problems.
 ## Goldman Sachs
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0min-flips-for-alternate](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/0min-flips-for-alternate/) | Easy |
 | [binary-tree-to-dll](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/binary-tree-to-dll/) | Hard |
 | [edit-distance](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/edit-distance/) | Hard |
 | [equal-partition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/equal-partition/) | Medium |
@@ -1210,7 +1212,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1622,6 +1626,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0all-string-permutations-in-sorted-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/0all-string-permutations-in-sorted-order/) | Hard |
+| [0min-flips-for-alternate](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/0min-flips-for-alternate/) | Easy |
 | [0sum-of-all-digit-subsequences](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/0sum-of-all-digit-subsequences/) | Easy |
 | [0sum-of-beauty-of-all-substrings](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/0sum-of-beauty-of-all-substrings/) | Easy |
 | [alien-dictionary](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/alien-dictionary/) | Hard |
@@ -2600,7 +2605,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [sort-in-specific-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-in-specific-order/) | Medium |
 
+## Binary Representation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0min-flips-for-alternate](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/0min-flips-for-alternate/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
