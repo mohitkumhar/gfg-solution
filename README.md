@@ -166,6 +166,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -310,6 +311,7 @@ Contains topicwise list of solved problems.
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
 | [longest-palindrome-in-a-string](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-palindrome-in-a-string/) | Medium |
 | [longest-prefix-suffix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/longest-prefix-suffix/) | Hard |
+| [longest-subarray-sum-divisible-by-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-subarray-sum-divisible-by-k/) | Medium |
 | [maximum-product-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/maximum-product-subarray/) | Medium |
 | [median-of-2-sorted-arrays-of-different-sizes](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/median-of-2-sorted-arrays-of-different-sizes/) | Hard |
 | [merge-2-sorted-linked-lists-in-reverse-order](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/merge-2-sorted-linked-lists-in-reverse-order/) | Medium |
@@ -491,6 +493,7 @@ Contains topicwise list of solved problems.
 | [intersection-point-in-y-shaped-linked-lists](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/intersection-point-in-y-shaped-linked-lists/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
 | [linked-list-group-reverse](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/linked-list-group-reverse/) | Hard |
+| [longest-subarray-sum-divisible-by-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-subarray-sum-divisible-by-k/) | Medium |
 | [sort-0s-1s-and-2s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/sort-0s-1s-and-2s/) | Medium |
 | [sorted-and-rotated-minimum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/sorted-and-rotated-minimum/) | Easy |
 | [spirally-traversing-a-matrix](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/spirally-traversing-a-matrix/) | Medium |
@@ -1220,7 +1223,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -1483,6 +1488,7 @@ Contains topicwise list of solved problems.
 | [koko-eating-bananas](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/koko-eating-bananas/) | Medium |
 | [largest-subarray-with-0-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-subarray-with-0-sum/) | Medium |
 | [largest-with-same-parity-adjacent-swaps](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-with-same-parity-adjacent-swaps/) | Medium |
+| [longest-subarray-sum-divisible-by-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-subarray-sum-divisible-by-k/) | Medium |
 | [longest-subarray-with-sum-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-subarray-with-sum-k/) | Medium |
 | [maximum-packages-within-time](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/maximum-packages-within-time/) | Easy |
 | [maximum-product-subarray](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/maximum-product-subarray/) | Medium |
@@ -1954,6 +1960,7 @@ Contains topicwise list of solved problems.
 | [account-merge](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/account-merge/) | Hard |
 | [convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence/) | Easy |
 | [largest-subarray-with-0-sum](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/largest-subarray-with-0-sum/) | Medium |
+| [longest-subarray-sum-divisible-by-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-subarray-sum-divisible-by-k/) | Medium |
 | [longest-subarray-with-sum-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-subarray-with-sum-k/) | Medium |
 | [overlapping-intervals](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/overlapping-intervals/) | Medium |
 | [subarrays-with-sum-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/subarrays-with-sum-k/) | Medium |
@@ -2537,6 +2544,7 @@ Contains topicwise list of solved problems.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [longest-subarray-sum-divisible-by-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-subarray-sum-divisible-by-k/) | Medium |
 | [minimize-max-min-diff-with-subarray-removal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-max-min-diff-with-subarray-removal/) | Medium |
 
 ## Optimal File Merge Patterns
@@ -2620,7 +2628,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0min-flips-for-alternate](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/0min-flips-for-alternate/) | Easy |
 
+## Longest Subarray Sum Divisible K
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [longest-subarray-sum-divisible-by-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-subarray-sum-divisible-by-k/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
