@@ -1468,6 +1468,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1488,6 +1489,7 @@ Contains topicwise list of solved problems.
 | [count-subarrays-with-given-xor](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-subarrays-with-given-xor/) | Medium |
 | [equal-partition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/equal-partition/) | Medium |
 | [first-and-last-in-sorted](https://github.com/mohitkumhar/gfg-solution/tree/main/C++/Medium/first-and-last-in-sorted/) | Medium |
+| [geeks-destination-with-special-jump](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/geeks-destination-with-special-jump/) | Hard |
 | [generate-permutations-of-an-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/generate-permutations-of-an-array/) | Medium |
 | [justified-text](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/justified-text/) | Medium |
 | [kadanes-algorithm](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/kadanes-algorithm/) | Medium |
@@ -1825,6 +1827,7 @@ Contains topicwise list of solved problems.
 | [0set-matrix-zeros](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0set-matrix-zeros/) | Medium |
 | [closest-palindrome](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/closest-palindrome/) | Hard |
 | [count-indices-that-escape-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-indices-that-escape-array/) | Medium |
+| [geeks-destination-with-special-jump](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/geeks-destination-with-special-jump/) | Hard |
 | [meeting-rooms-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/meeting-rooms-ii/) | Medium |
 | [minimize-the-heights-i](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-i/) | Medium |
 | [minimize-the-heights-ii](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-the-heights-ii/) | Medium |
@@ -2162,6 +2165,7 @@ Contains topicwise list of solved problems.
 | [0xor-of-all-subarray-xors](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/0xor-of-all-subarray-xors/) | Medium |
 | [balanced-binary-tree-counter](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/balanced-binary-tree-counter/) | Easy |
 | [closest-palindrome](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/closest-palindrome/) | Hard |
+| [geeks-destination-with-special-jump](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/geeks-destination-with-special-jump/) | Hard |
 | [minimize-max-distance-of-adjacent-gas-stations](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/minimize-max-distance-of-adjacent-gas-stations/) | Hard |
 | [polynomial-addition](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/polynomial-addition/) | Medium |
 | [possible-words-from-phone-digits](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/possible-words-from-phone-digits/) | Medium |
@@ -2550,6 +2554,7 @@ Contains topicwise list of solved problems.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [geeks-destination-with-special-jump](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/geeks-destination-with-special-jump/) | Hard |
 | [longest-subarray-sum-divisible-by-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-subarray-sum-divisible-by-k/) | Medium |
 | [minimize-max-min-diff-with-subarray-removal](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/minimize-max-min-diff-with-subarray-removal/) | Medium |
 
@@ -2566,6 +2571,7 @@ Contains topicwise list of solved problems.
 ## Modular Arithmetic
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [geeks-destination-with-special-jump](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/geeks-destination-with-special-jump/) | Hard |
 | [subsets-with-mex-in-range](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/subsets-with-mex-in-range/) | Hard |
 
 ## Crazy Subsets
@@ -2639,7 +2645,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [longest-subarray-sum-divisible-by-k](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/longest-subarray-sum-divisible-by-k/) | Medium |
 
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [geeks-destination-with-special-jump](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/geeks-destination-with-special-jump/) | Hard |
+
+## Geek And Her Destination
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [geeks-destination-with-special-jump](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/geeks-destination-with-special-jump/) | Hard |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
