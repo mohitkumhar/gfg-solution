@@ -1469,6 +1469,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -1598,6 +1599,7 @@ Contains topicwise list of solved problems.
 | [alien-dictionary](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/alien-dictionary/) | Hard |
 | [articulation-point](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/articulation-point/) | Hard |
 | [circle-of-strings](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/circle-of-strings/) | Hard |
+| [count-edges-in-graph](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/count-edges-in-graph/) | Easy |
 | [count-groups-of-1s-surrounded-by-0s](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/count-groups-of-1s-surrounded-by-0s/) | Hard |
 | [count-indices-that-escape-array](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Medium/count-indices-that-escape-array/) | Medium |
 | [critical-connections-in-graph](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/critical-connections-in-graph/) | Hard |
@@ -2655,7 +2657,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [geeks-destination-with-special-jump](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Hard/geeks-destination-with-special-jump/) | Hard |
 
+## Count Number Edges Undirected Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [count-edges-in-graph](https://github.com/mohitkumhar/gfg-solution/tree/main/Python3/Easy/count-edges-in-graph/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
